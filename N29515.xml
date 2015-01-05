@@ -111,8 +111,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:039314_0000_1013FD0DD2B907A0"/>
-            <pb facs="tcp:039314_0001_1013FC3872BA6B70"/>
+            <pb facs="unknown:039314_0000_1013FD0DD2B907A0"/>
+            <pb facs="unknown:039314_0001_1013FC3872BA6B70"/>
             <p>Inſtructions for Children: OR, THE <hi>Child</hi>'s &amp; <hi>Youth</hi>'s <hi>Delight,</hi> TEACHING An eaſie way to Spell &amp; Read TRUE ENGLISH. Containing the <hi>Father</hi>'s <hi>Godly Advice</hi>; Directing Parents in a Right and Spiritual manner to Educate their CHILDREN.</p>
             <p>With a <hi>Chriſtian Catechiſm,</hi> where<g ref="char:EOLhyphen"/>in all the chief Principles of <hi>True Chri<g ref="char:EOLhyphen"/>ſtianity</hi> are clearly opened.</p>
             <p>Together with many other things both Pleaſant and Uſeful for the Edu<g ref="char:EOLhyphen"/>cation of Children.</p>
@@ -121,7 +121,7 @@
             <p>Printed and Sold by <hi>Will. Bradford</hi> at the Bible in <hi>New-York,</hi> 1695.</p>
          </div>
          <div type="to_the_reader">
-            <pb facs="tcp:039314_0002_1013FC3AEF4C5660"/>
+            <pb facs="unknown:039314_0002_1013FC3AEF4C5660"/>
             <opener>
                <salute>Courteous Reader;</salute>
             </opener>
@@ -139,7 +139,7 @@
             </p>
          </div>
          <div type="instruction">
-            <pb facs="tcp:039314_0003_1013FBFA2E039250"/>
+            <pb facs="unknown:039314_0003_1013FBFA2E039250"/>
             <div type="list_of_letters">
                <head>The Engliſh Capitals.</head>
                <p>A B C D E <hi>F</hi> G H I K L M N O P <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -174,7 +174,8 @@
                </p>
             </div>
             <div type="list_of_letters">
-               <pb facs="tcp:039314_0004_1013FC3EE9092080" rendition="simple:additions"/>
+               <pb facs="unknown:039314_0004_1013FC3EE9092080"
+                   rendition="simple:additions"/>
                <head>Double Letters.</head>
                <p>ct ſſ ſi ſſi <gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
@@ -220,7 +221,7 @@
                </list>
                <p>A Vowel hath a perfect ſound by it ſelf, without any other Let<g ref="char:EOLhyphen"/>ter; but Conſonants, without Vowels, will make no ſound, nor can they be pronounced.</p>
                <list>
-                  <pb facs="tcp:039314_0005_1013FBFDDC878720"/>
+                  <pb facs="unknown:039314_0005_1013FBFDDC878720"/>
                   <item>bat bet bit bot but</item>
                   <item>cad ced cid cod cud</item>
                   <item>dap dep dip dop dup</item>
@@ -248,7 +249,7 @@
                   </gap>e, hedge, hole, huge</p>
                <p>Iſle, inn, judge, juice.</p>
                <p>
-                  <pb facs="tcp:039314_0006_1013FC4327835758"/>Lead, leave, live, life, love.</p>
+                  <pb facs="unknown:039314_0006_1013FC4327835758"/>Lead, leave, live, life, love.</p>
                <p>Mace, made, make, ma<gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
                   </gap>, <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -277,7 +278,7 @@
             </div>
          </div>
          <div type="poem">
-            <pb facs="tcp:039314_0007_1013FBFF628F59E0"/>
+            <pb facs="unknown:039314_0007_1013FBFF628F59E0"/>
             <head>Precepts for Children.</head>
             <lg>
                <l>TO learn to Read good Child, give heed,</l>
@@ -344,7 +345,7 @@
                <l>Its worth cannot be told,</l>
             </lg>
             <lg n="7">
-               <pb facs="tcp:039314_0008_1013FC46D9225B50"/>
+               <pb facs="unknown:039314_0008_1013FC46D9225B50"/>
                <head>7.</head>
                <l>
                   <hi>Conſonants</hi> know, and <hi>Vowels</hi> 
@@ -413,7 +414,7 @@
             </lg>
          </div>
          <div type="lessons">
-            <pb facs="tcp:039314_0009_1013FC01D5BBC050"/>
+            <pb facs="unknown:039314_0009_1013FC01D5BBC050"/>
             <head>Leſſons for Children.</head>
             <div n="1" type="lesson">
                <head>1. <hi>Leſſon.</hi>
@@ -438,7 +439,7 @@
                   <gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
                   </gap>d do unto others as you would
-<pb facs="tcp:039314_0010_1013FC4AE69092E8"/>
+<pb facs="unknown:039314_0010_1013FC4AE69092E8"/>
 be done unto your ſelves.</p>
             </div>
             <div n="5" type="lesson">
@@ -462,7 +463,7 @@ be done unto your ſelves.</p>
                <p>FOR what Glory is it, if when ye be buffetted for your Faults, ye ſhall take it patienly: But if when ye do well, and ſuffer for it, ye take it Patiently; this is accepta<g ref="char:EOLhyphen"/>ble with God.</p>
             </div>
             <div n="8" type="lesson">
-               <pb facs="tcp:039314_0011_1013FC03AB1F71A8"/>
+               <pb facs="unknown:039314_0011_1013FC03AB1F71A8"/>
                <head>8. <hi>Leſſon.</hi>
                </head>
                <p>FOR even hereunto were ye called; becauſe Chriſt alſo ſuffer<g ref="char:EOLhyphen"/>ed for us leaving us an Examples that ye ſhould follow his Steps, who did no Sin nither was Guile found in his Mouth.</p>
@@ -486,7 +487,7 @@ be done unto your ſelves.</p>
       <body>
          <div n="1" type="part">
             <div type="catechism">
-               <pb n="1" facs="tcp:039314_0012_1013FC4D5C28C168"/>
+               <pb n="1" facs="unknown:039314_0012_1013FC4D5C28C168"/>
                <head>The little Childs Catechiſm.</head>
                <sp>
                   <speaker>Father.</speaker>
@@ -585,7 +586,7 @@ be done unto your ſelves.</p>
                   </p>
                </sp>
                <sp>
-                  <pb n="2" facs="tcp:039314_0013_1013FC05B1977710"/>
+                  <pb n="2" facs="unknown:039314_0013_1013FC05B1977710"/>
                   <speaker>Fa.</speaker>
                   <p>
                      <hi>Who built the A<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -682,7 +683,7 @@ be done unto your ſelves.</p>
                   </p>
                </sp>
                <sp>
-                  <pb n="3" facs="tcp:039314_0014_1013FC4EF7AF5B18"/>
+                  <pb n="3" facs="unknown:039314_0014_1013FC4EF7AF5B18"/>
                   <speaker>Ch.</speaker>
                   <p>Job.</p>
                </sp>
@@ -768,7 +769,7 @@ be done unto your ſelves.</p>
                   <p>La-za-rus.</p>
                </sp>
                <sp>
-                  <pb n="4" facs="tcp:039314_0015_1013FC07C89FCF38"/>
+                  <pb n="4" facs="unknown:039314_0015_1013FC07C89FCF38"/>
                   <speaker>Fa.</speaker>
                   <p>
                      <hi>Who de-ny-ed Je-ſus Chriſt?</hi>
@@ -858,7 +859,7 @@ be done unto your ſelves.</p>
                   </p>
                </sp>
                <sp>
-                  <pb n="5" facs="tcp:039314_0016_1013FC51C4A076A8"/>
+                  <pb n="5" facs="unknown:039314_0016_1013FC51C4A076A8"/>
                   <speaker>Ch.</speaker>
                   <p>That I ſhould ſerve, Wor-ſhip, and ho-nour him.</p>
                </sp>
@@ -911,7 +912,7 @@ be done unto your ſelves.</p>
                   </p>
                </sp>
                <sp>
-                  <pb n="6" facs="tcp:039314_0017_1013FC0A71648418"/>
+                  <pb n="6" facs="unknown:039314_0017_1013FC0A71648418"/>
                   <speaker>Ch.</speaker>
                   <p>He dyed and ſhed his pre-ci-ous blood to ſave me.</p>
                </sp>
@@ -960,7 +961,7 @@ be done unto your ſelves.</p>
                   </p>
                </sp>
                <lg n="1">
-                  <pb n="7" facs="tcp:039314_0018_1013FC5382F212F8"/>
+                  <pb n="7" facs="unknown:039314_0018_1013FC5382F212F8"/>
                   <head>1.</head>
                   <l>
                      <hi>O</hi> Child moſt dear, incline thine <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1046,7 +1047,7 @@ be done unto your ſelves.</p>
                   <l>To love Siſter and Brother.</l>
                </lg>
                <lg n="7">
-                  <pb n="8" facs="tcp:039314_0019_1013FC0D05AAE998"/>
+                  <pb n="8" facs="unknown:039314_0019_1013FC0D05AAE998"/>
                   <head>7·</head>
                   <l>
                      <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1089,7 +1090,7 @@ be done unto your ſelves.</p>
                   <l>That Glory to obtain.</l>
                </lg>
                <p>
-                  <pb n="9" facs="tcp:039314_0020_1013FC56161E46F8"/>
+                  <pb n="9" facs="unknown:039314_0020_1013FC56161E46F8"/>
                   <hi>Now, my lit-tle Child, ſtand a-ſide and let me ask your El der-Bro-ther ſome Que-ſti-ons.</hi>
                </p>
             </div>
@@ -1142,7 +1143,7 @@ be done unto your ſelves.</p>
                   <p>Y<gap reason="illegible" resp="#PDCC" extent="2 letters">
                         <desc>••</desc>
                      </gap>, Sir, I do believe
-<pb n="10" facs="tcp:039314_0021_1013FC10C2DB6260"/>
+<pb n="10" facs="unknown:039314_0021_1013FC10C2DB6260"/>
 there is a God; for I have often read of him in my bible.</p>
                </sp>
                <sp>
@@ -1194,7 +1195,7 @@ there is a God; for I have often read of him in my bible.</p>
                         </gap> God ma<gap reason="illegible" resp="#PDCC" extent="2 letters">
                            <desc>••</desc>
                         </gap> Man in his own</hi>
-                     <pb n="11" facs="tcp:039314_0022_1013FC57AED64F88"/>
+                     <pb n="11" facs="unknown:039314_0022_1013FC57AED64F88"/>
 Image, and after his own likeneſs. Man was created holy &amp; upright, and made chief Ruler and Gover<g ref="char:EOLhyphen"/>nour of all Creatures and Things on Earth.</p>
                </sp>
                <sp>
@@ -1224,7 +1225,7 @@ Image, and after his own likeneſs. Man was created holy &amp; upright, and made
                      </gap> have more of his Likeneſs, than of the Image and Likeneſs of God in them.</p>
                </sp>
                <sp>
-                  <pb n="12" facs="tcp:039314_0023_1013FC149D76E090"/>
+                  <pb n="12" facs="unknown:039314_0023_1013FC149D76E090"/>
                   <speaker>Ch.</speaker>
                   <p>
                      <hi>Father, Pray tell me what my State and Condition is?</hi>
@@ -1270,7 +1271,7 @@ Image, and after his own likeneſs. Man was created holy &amp; upright, and made
 <gap reason="missing" extent="2 pages">
                         <desc>〈2 pages missing〉</desc>
                      </gap>
-                     <pb n="15" facs="tcp:039314_0024_1013FC5B5AEE8800"/>
+                     <pb n="15" facs="unknown:039314_0024_1013FC5B5AEE8800"/>
                      <hi>what ſhall I do, if I am by Nature a Child of Wrath, and thus prone to ſin againſt God?</hi>
                   </p>
                </sp>
@@ -1291,7 +1292,7 @@ Image, and after his own likeneſs. Man was created holy &amp; upright, and made
                      </gap>f <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>in, and charge you before the Great God, not to keep Company with wick<g ref="char:EOLhyphen"/>ed Children; for ſome do not only now-a-day go aſtray from the Womb, telling Lyes; but alſo learn to Swear and Blaſpheme the Holy Name of God as ſoon, nay, before they can ſpeak plain, and their evil and wicked Parents do not reprove them. <hi>Secondly,</hi> I
-<pb n="16" facs="tcp:039314_0025_1013FC18245DCC98"/>
+<pb n="16" facs="unknown:039314_0025_1013FC18245DCC98"/>
 exhort you to pray to God to give you Grace, and change your evil Nature; for <hi>except a Man be born again, he cannot ſee the Kindom of God,</hi> John 3.3.</p>
                </sp>
                <sp>
@@ -1327,7 +1328,7 @@ exhort you to pray to God to give you Grace, and change your evil Nature; for <h
                   <speaker>Ch.</speaker>
                   <p>
                      <hi>But, Father, I am very young, may I not do as other Children do,
-<pb n="17" facs="tcp:039314_0026_1013FC606918F348"/>
+<pb n="17" facs="unknown:039314_0026_1013FC606918F348"/>
 and de<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>er the minding of theſe things until I am older?</hi>
@@ -1342,7 +1343,7 @@ and de<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>.1. <hi>Firſt</hi> (ſaith Chriſt) <hi>ſeek the King<g ref="char:EOLhyphen"/>dom of God &amp; his Righteouſneſs, and all other things ſhall be added unto you, Mat.</hi> 6.33.</p>
                   <p n="2">2. I charge you to ſee your Heart Heaven-ward, and to labour to know God, and to love and ſerve him now, becauſe you were made and ſent into this world to
-<pb n="18" facs="tcp:039314_0027_1013FC19DC170E28"/>
+<pb n="18" facs="unknown:039314_0027_1013FC19DC170E28"/>
 this very purpoſe.</p>
                   <p n="3">3. Co<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -1366,7 +1367,7 @@ this very purpoſe.</p>
                   <speaker>Ch.</speaker>
                   <p>
                      <hi>But, Father, I can't ſee that many Children do regard or mind theſe things; beſides, they laugh at me and mock me, when I ſpeak to
-<pb n="19" facs="tcp:039314_0028_1013FC654DB98108"/>
+<pb n="19" facs="unknown:039314_0028_1013FC654DB98108"/>
 them of God, and of praying to him, and of getting an intereſt in Chriſt.</hi>
                   </p>
                </sp>
@@ -1385,7 +1386,7 @@ them of God, and of praying to him, and of getting an intereſt in Chriſt.</hi>
                   <speaker>Fath.</speaker>
                   <p>
                      <hi>God hath not promiſed that they who ſeek him late, ſhall find him; but his Promiſe runs to them that ſeek him early,</hi> Prov. 8 17. <hi>But, Child, God doth not, it may be, afford ſome the means of Grace whilſt they are young; they may live in ſome
-<pb n="20" facs="tcp:039314_0029_1013FC1BC6A8FC90"/>
+<pb n="20" facs="unknown:039314_0029_1013FC1BC6A8FC90"/>
 d<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>rk corner: Nor does he call all a<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1424,7 +1425,7 @@ d<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         </gap>gs of our days. Beſides, thy dear Sa<g ref="char:EOLhyphen"/>viour ſpent all his days on Earth that ſo he might glorifi<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap> thee in Heaven, therefore ſhouldſt thou ſpend all thy days in his Service, and to Honour him. He lived for thee, that thou
-<pb n="21" facs="tcp:039314_0030_1013FC69674B4F98"/>
+<pb n="21" facs="unknown:039314_0030_1013FC69674B4F98"/>
 ſhouldſt live to him; and died for thee in the prime of his days, that thou ſh<gap reason="illegible" resp="#PDCC" extent="2 letters">
                            <desc>••</desc>
                         </gap>l<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1440,7 +1441,7 @@ d<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         </gap> ſake Sin, or Sin forſakes them.</hi>
                   </p>
                   <p n="5">5. Further to perſwade thee in
-<pb n="22" facs="tcp:039314_0031_1013FC1DA4759288"/>
+<pb n="22" facs="unknown:039314_0031_1013FC1DA4759288"/>
 thy youth to cleave to God, and to be holy betimes, conſider that hereby thou wilt prevent and e<g ref="char:EOLhyphen"/>ſcape m<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>n<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1449,7 +1450,7 @@ thy youth to cleave to God, and to be holy betimes, conſider that hereby thou w
                         <desc>•</desc>
                      </gap>ievous ſins (which others run into) to the great diſ<g ref="char:EOLhyphen"/>honour of God and grief of their Parents? which will alſo more and more polute and defile thy Soul, and cauſe the Lord to loathe and abhor thee; and by this means alſo will Satan get the greater Power over thee; and the more difficult will it be for thee to leave the ways of ſin, and the vanities of this World; for evil habits and cuſtoms in ſin, are not eaſily bro<g ref="char:EOLhyphen"/>ken; which made the Prophet ſay, <hi>Can the Ethiopian change his skin, or the Lepord his ſpots? Then may ye alſo do good that are accu<g ref="char:EOLhyphen"/>ſtomed to do evil,</hi> Jer. 13.23.</p>
                   <p n="9">9. God calls thee now in thy youth, and this may be the only time of thy viſitation; and if thou ſhouldſt ſlight and neglect this
-<pb n="23" facs="tcp:039314_0032_1013FC6CC15CADB8"/>
+<pb n="23" facs="unknown:039314_0032_1013FC6CC15CADB8"/>
 ſeaſon, probably God may call thee no more. <hi>Prov.</hi> 1.24. many who refuſe God's Call in their youth, and cleave to the Luſts and Vanities of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap> World, when they come to be old, are wholly rejected of the Almighty, and given up to unbelief and hard<g ref="char:EOLhyphen"/>neſs of Heart; ſo that they ſin without any remorſe of Conſci<g ref="char:EOLhyphen"/>ence, and periſh eternally.</p>
@@ -1462,7 +1463,7 @@ thy youth to cleave to God, and to be holy betimes, conſider that hereby thou w
                         </gap>y Heart cheer thee in the days o<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap> thy youth; and walk in the ways of thy Heart, and in the ſight of thine Eyes; But know thou, for all theſe things, God will bring thee unto Judgment; Therefore re<g ref="char:EOLhyphen"/>move ſorrow from thy Heart, and
-<pb n="24" facs="tcp:039314_0033_1013FC1F555862D0"/>
+<pb n="24" facs="unknown:039314_0033_1013FC1F555862D0"/>
 put evil from thy Fleſh; for Child<g ref="char:EOLhyphen"/>hood <gap reason="illegible" resp="#PDCC" extent="1 span">
                            <desc>〈…〉</desc>
                         </gap>,</hi> Eccleſ. 11.9, 10.</p>
@@ -1491,7 +1492,7 @@ put evil from thy Fleſh; for Child<g ref="char:EOLhyphen"/>hood <gap reason="il
                   <p>What Thoughts are they you do meet with?</p>
                </sp>
                <sp>
-                  <pb n="25" facs="tcp:039314_0034_1013FC6EAC8D55A0"/>
+                  <pb n="25" facs="unknown:039314_0034_1013FC6EAC8D55A0"/>
                   <speaker>Ch.</speaker>
                   <p>
                      <hi>That I am <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1508,7 +1509,7 @@ put evil from thy Fleſh; for Child<g ref="char:EOLhyphen"/>hood <gap reason="il
                <sp>
                   <speaker>Fa.</speaker>
                   <p>I have told you already, theſe Thoughts the Divil puts into your Heart; and therefore I charge you in the fear and dread of the great and terrible God of Heaven and Earth, not to cloſe in with them; for he that tells you now you are too young, and 'tis time enough to mind the good of your Soul, and ſo ſeeks to deſtroy you, and ſplit you upon the Rock of Preſumption, will tell you, if you ſhould live till you are older That then it will be too late, and that your Day is gone; and thereby endeavour to daſh you againſt the Rock of Deſpair. Have I not told thee why thou waſt made? And truly, Child, I can't
-<pb n="26" facs="tcp:039314_0035_1013FC22144233F8"/>
+<pb n="26" facs="unknown:039314_0035_1013FC22144233F8"/>
 give better Co<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>nd Inſtructi<g ref="char:EOLhyphen"/>on, or Advice, then to do in this ca<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1518,7 +1519,7 @@ give better Co<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      </gap>igh and conſider deeply for what cauſe he came thither, why he wa<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap> ſent, to what end, what to attempt, what to proſecute, what to perform, what will be expected at his Re<g ref="char:EOLhyphen"/>turn by him that ſent him. For ſuch Cogitations (without doubt) tend to ſtir him up to ſet upon the Buſineſs for which he came, and not to imploy his time in imper<g ref="char:EOLhyphen"/>tinencies and trifling vanities. Will you not lay to Heart, why you were created and ſent hither, until you are ready to depart from hence? Shall the buſineſs of your Great Maſter and Glorious Soveraign, be neglected, whilſt your Service would be moſt accep<g ref="char:EOLhyphen"/>table to him. Suppoſe the Mer<g ref="char:EOLhyphen"/>chants
-<pb n="27" facs="tcp:039314_0036_1013FC71501AE108"/>
+<pb n="27" facs="unknown:039314_0036_1013FC71501AE108"/>
 Factor ſhou<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>d not have his time prefixt, how long he ſhall ſtay in the Country to which he is ſent; and therefore knows not <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1534,7 +1535,7 @@ Factor ſhou<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      </gap>f thou ſhould neglect the Rich M<gap reason="illegible" resp="#PDCC" extent="2 letters">
                         <desc>••</desc>
                      </gap>chandize of the Kingdom of Heaven to Trade in, and for
-<pb n="28" facs="tcp:039314_0037_1013FC23DB242E60"/>
+<pb n="28" facs="unknown:039314_0037_1013FC23DB242E60"/>
 which thou cameſt into the World; ſhould God call thee away before th<gap reason="illegible" resp="#PDCC" extent="2 letters">
                         <desc>••</desc>
                      </gap> haſt done any thing effectually in it? O do not fooliſhly waſte thy time, and loſe the Flower of thy Age, which are thoſe choice Talents the Lord calls upon thee to improve; 'Tis I may ſay, thy Maſters Mony, &amp; thou wilt be called to give an ac<g ref="char:EOLhyphen"/>count of them.</p>
@@ -1563,7 +1564,7 @@ which thou cameſt into the World; ſhould God call thee away before th<gap reas
                      </gap>wer now fade; and hangs its head,</l>
                   <l>Which yeſterday ſo flouriſhed;</l>
                   <l>
-                     <pb n="29" facs="tcp:039314_0038_1013FC7497F4E770"/>The Meadows clad in brave array,</l>
+                     <pb n="29" facs="unknown:039314_0038_1013FC7497F4E770"/>The Meadows clad in brave array,</l>
                   <l>Are ſoon cut down, and turn'd to <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>ay;</l>
@@ -1602,7 +1603,7 @@ which thou cameſt into the World; ſhould God call thee away before th<gap reas
                         </gap>ction you have given m<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>; for I am ſenſible how ſhort and uncertain my days are on Earth: But, pray Sir, have any Children ſo young as I am, attained
-<pb n="30" facs="tcp:039314_0039_1013FC2743C725D8"/>
+<pb n="30" facs="unknown:039314_0039_1013FC2743C725D8"/>
 to the Knowledge of God and Jeſus Chriſt? Doth God, I mean, call any ſo young?</hi>
                   </p>
                </sp>
@@ -1614,7 +1615,7 @@ to the Knowledge of God and Jeſus Chriſt? Doth God, I mean, call any ſo young
                         <desc>•</desc>
                      </gap> looked red and ſore with weeping for his Sins.</p>
                   <p>The ſame Miniſter gives us an account of another Child, who
-<pb n="31" facs="tcp:039314_0040_1013FC7647FFBEA8"/>
+<pb n="31" facs="unknown:039314_0040_1013FC7647FFBEA8"/>
 when ſhe was about four years old had a great ſence of her Du<g ref="char:EOLhyphen"/>ty to her Parents, becauſe the Commandment ſaith, <hi>Honour thy Father and thy Mother.</hi> She would weep if ſhe ſaw her Parents trou<g ref="char:EOLhyphen"/>bl<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>d, (though her ſelf had been no occaſion of it) and would of<g ref="char:EOLhyphen"/>ten get into one hole or another to pray, with Tears in his Eyes: She ſaid ſhe believed in Chriſt, and deſired and longed to be with him.</p>
@@ -1635,7 +1636,7 @@ when ſhe was about four years old had a great ſence of her Du<g ref="char:EOLh
                      </gap>nd allowed her ſelf in no know<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>
-                     <pb n="32" facs="tcp:039314_0041_1013FC2B5C1967B8"/>
+                     <pb n="32" facs="unknown:039314_0041_1013FC2B5C1967B8"/>
 Sin: After ſhe had long waited for an Anſwer of Prayer, ſhe ſaid, <hi>Well, I will venture my Soul upon Chriſt.</hi>
                   </p>
                   <p>Nay, He ſpeaks of one that God wrought upon, that was not above three or four years old: This Child, he ſaith, would often<g ref="char:EOLhyphen"/>times complain of the naughti<g ref="char:EOLhyphen"/>neſs of his Heart, and was trou<g ref="char:EOLhyphen"/>bled for his w<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1652,7 +1653,7 @@ Sin: After ſhe had long waited for an Anſwer of Prayer, ſhe ſaid, <hi>Well, 
                      </gap> to ſpeak, but he betook himſel<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>
-                     <pb n="33" facs="tcp:039314_0042_1013FC78D1C1E218"/>
+                     <pb n="33" facs="unknown:039314_0042_1013FC78D1C1E218"/>
 to prayer; and as he grew up, took much delight in reading the Scriptures, he would not ſti<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap> out of doors, before he had poured forth his <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1671,7 +1672,7 @@ to prayer; and as he grew up, took much delight in reading the Scriptures, he wo
                      </gap>ying and all Childiſh vani<g ref="char:EOLhyphen"/>ty: Would you be ſaved when you die? (And you know not h<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>w ſoon it may be) O then tremble
-<pb n="34" facs="tcp:039314_0043_1013FC2EDA0EC6C0"/>
+<pb n="34" facs="unknown:039314_0043_1013FC2EDA0EC6C0"/>
 at the thought of deferring o<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap> putting off the ſerious thoughts o<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1699,9 +1700,9 @@ at the thought of deferring o<gap reason="illegible" resp="#PDCC" extent="1 lett
                <sp>
                   <speaker>Fath.</speaker>
                   <p>Will you ſay and hold? Take heed you do not forget your Promiſe: Give your ſelf up my Child, to reading God's Word and other good books; and la<g ref="char:EOLhyphen"/>bour to be deeply affected with
-<pb n="35" facs="tcp:039314_0044_1013FC7B66713B78"/>
+<pb n="35" facs="unknown:039314_0044_1013FC7B66713B78"/>
 your loſt and undone Condition without Chriſts; and attend upon the Miniſtry of Chriſt's painful Labourers; and never be conten<g ref="char:EOLhyphen"/>ted nor reſt, until you can ſay, Chriſt's is yours. Ah! See how his Arms ſtand open to embrace you! He calls thee, wilt thou not go to him? My Child, re<g ref="char:EOLhyphen"/>member God ſays, <hi>Tis good to bear the yoak in your youth,</hi> Lam. 3.27, 'Tis not only good to ſub<g ref="char:EOLhyphen"/>mit to his Yoak, and to his Au<g ref="char:EOLhyphen"/>thority, to obey his Commands, but to do it betimes. O ſhake off the Devil's Yoak, Sins Yok, and the Worlds Yoak, and put on Chriſts Yoak. The longer a Per<g ref="char:EOLhyphen"/>ſon wears the Yoak of ſin, the harder it will be to get it off: Chriſt's Yoak is eaſie, and the more eaſie it will be to put it on now, than it will be hereafter: A Plant which is newly ſet, is more eaſily removed, then when
-<pb n="36" facs="tcp:039314_0045_1013FC3173BEE708"/>
+<pb n="36" facs="unknown:039314_0045_1013FC3173BEE708"/>
 it has taken root: If they break a Horſe to the Harneſs, or a Bullock to the Yoak, as one obſerves, 'tis while they are young. 'Tis good to bear the Yoak in thy youth, becauſe 'tis God's Will, God's Command; and alſo becauſe it will bring ſo much good, Peace, and comfort, to thy own Soul; and not only Peace, but profit alſo: <hi>In keeping thy Commandments, there is great Reward,</hi> Pſal. 19.11. O there is Pleaſure, Child, &amp; profit too, in God's Ways! No ſweet<g ref="char:EOLhyphen"/>neſs like Divine Sweetneſs!</p>
                </sp>
                <sp>
@@ -1713,12 +1714,12 @@ it has taken root: If they break a Horſe to the Harneſs, or a Bullock to the Y
                <sp>
                   <speaker>Fath.</speaker>
                   <p>Godlineſs deprives us of no lawful Delight and Pleaſure which others enjoy; and I hope thou wilt not ſay, That <hi>ſtolen Wa<g ref="char:EOLhyphen"/>ters are ſweet,</hi> &amp;c. That pleaſure which is had in a ſinfull way, will be bitter ſawce in the end: And
-<pb n="37" facs="tcp:039314_0046_1013FC7D917F2428"/>
+<pb n="37" facs="unknown:039314_0046_1013FC7D917F2428"/>
 then again, <hi>Religion</hi> hath its pe<g ref="char:EOLhyphen"/>culiar Pleaſures, which wicked ones never taſted of? What is ſo ſweet as God's Love! <hi>His Favo<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>r is better than Life.</hi> There is in this a Soul ſatisfying good, and Soul-filling, and a Soul-delighting ſweetneſs, and that which will abide good always; good and ſweet, when all the Things and Injoyments of this World, will be bitter: Sinful pleaſures, are Soul-defiled, Soul-debaſing, nay, Soul-damning Pleaſures: They bring ſhame and confuſion ſometimes here, and eternal ſhame and ruin hereafter.</p>
                   <p>Never ſay now any more, <hi>I am too young to ſeeke after God, to learn to be good, and virtuous.</hi> Art thou old enough to ſerve the Devil, and too young to ſerve and honour God? Nay, old enough to be damned, and too young to be ſaved? O take heed you ſpend
-<pb n="38" facs="tcp:039314_0047_1013FC3496711A18"/>
+<pb n="38" facs="unknown:039314_0047_1013FC3496711A18"/>
 not your time in idleneſs and in play with wicked Children: I charge you as ever you hope for Mercy, and would have my love, do not dare to take God's Name in vain, nor tell a Lye to eſcape the Rod, nor break the Lord's Day, nor fall out and quarrel with your Brothers and Siſters, nor give them the Lye, nor no other evil Words. My ſweet Child, be dutiful and obedient to your Pa<g ref="char:EOLhyphen"/>rents. O learn to pray and pour forth your Heart to the Lord: Will you do it? I charge you think upon it: Now begin pre<g ref="char:EOLhyphen"/>ſently, defer it not one day longer What do you ſay?</p>
                </sp>
                <sp>
@@ -1728,23 +1729,23 @@ not your time in idleneſs and in play with wicked Children: I charge you as eve
                   </p>
                </sp>
                <sp>
-                  <pb n="39" facs="tcp:039314_0048_1013FC810A64D7C8"/>
+                  <pb n="39" facs="unknown:039314_0048_1013FC810A64D7C8"/>
                   <speaker>Fath.</speaker>
                   <p>The Eternal God grant thee ſtrength that thou mayſt do as thou haſt Promiſed. And now, my Daughters, I have ſomething further to ſay to you, Obſerve well what Counſel I have given your Brothers; for 'tis to you as well as to them: But ſince I ſee thoſe of your Sex are in theſe evil days, ſo exceedingly addicted to Pride, I do fore-warn you of it; For my part, while ye are under my Roof, I will never ſuffer you to wear fooliſh and antick Garbs and Fa<g ref="char:EOLhyphen"/>ſhions: 'Tis a ſhame that Parents profeſſing Godlineſs, ſhould be a<g ref="char:EOLhyphen"/>lured by the Divil to pleaſe their Childrens natural and pernicious Appetites; by which means they become meer Slaves to <hi>Lucifer,</hi> by ſending their little Daughters to School to learn to Dance (as <hi>Herodias</hi> did) where they are taught the helliſh Mode of naked Breſts and Shoulders, <hi>Antick</hi> and
-<pb n="40" facs="tcp:039314_0049_1013FCD42EFD5BA0"/>
+<pb n="40" facs="unknown:039314_0049_1013FCD42EFD5BA0"/>
                      <hi>Fantaſtick Garbs, Spotting, Patch<g ref="char:EOLhyphen"/>ings and Paintings, Towers, Bulls, Shades, Curlings</hi> and <hi>Criſpings</hi> and other <hi>Curioſities</hi> of the Devil's de<g ref="char:EOLhyphen"/>viſing; as to deck their Fingers with Rings, their Ears with Jew<g ref="char:EOLhyphen"/>els, their Neck with rich Brace<g ref="char:EOLhyphen"/>lets or Necklaces of Gold and Pearl, whereby they ſeem rather like little Morrice Dancers, than the young Off-ſpring of Chriſtian People: And thus being brave<g ref="char:EOLhyphen"/>ly dreſt up and the ſparks of Pride kindled in them, they go with ſtretched out Necks and haughty Hearts, that in a ſhort time they are too high and proud to know themſelves: And thus growing wanton, the Devil teaches the<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap> other helliſh Inventions, <hi>viz.</hi> How to make ſet Faces, to cringe <hi>A-la mode de France,</hi> the ſober Smile the quainteſt Dialect to humo<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>
-                     <pb n="41" facs="tcp:039314_0050_1013FC82BB9301D0"/>
+                     <pb n="41" facs="unknown:039314_0050_1013FC82BB9301D0"/>
 Diſcourſe well, to get rowling Eyes, to caſt amorous Glances, to read Love-Romances, and frequent Play-Houſes, and alſo to get ſtore of filthy and ob<g ref="char:EOLhyphen"/>ſcene Draughts or Pictures, de<g ref="char:EOLhyphen"/>cored with all ſorts of alure<g ref="char:EOLhyphen"/>ments, and the ſecret Diſcharges of <hi>Venus's</hi> laſcivious Myſteries, painted with the true Colours of <hi>Ovid's</hi> Works; as the diſguiſing of naked Gods, and <hi>Venus</hi> dally<g ref="char:EOLhyphen"/>ing with <hi>Adonis, Tarquin</hi> at ſtrife with <hi>Lucretia,</hi> and ſuch-like wan<g ref="char:EOLhyphen"/>ton Objects, with Pretty conceits to encourage the unwilling, and warm the cold humour of their Ravage.</p>
                   <p>God deliver you, my Daugh<g ref="char:EOLhyphen"/>ters, from this Poyſonous Infecti<g ref="char:EOLhyphen"/>on and Epidemical Diſeaſe? I charge you to dread it more than the Plague, as ever you do hope to enjoy the Favour of God, and
-<pb n="42" facs="tcp:039314_0051_1013FCD6ED927930"/>
+<pb n="42" facs="unknown:039314_0051_1013FCD6ED927930"/>
 abide in my love. Come, give your ſelves up to Prayer, and ſtrive to be Sober and vertuous betimes; and take heed you do not learn of the wanton and vain ones of the times; Don't gad abroad like <hi>Jacob's</hi> Daughter, to behold the Daughters of the Land, leſt you are one way or another defiled; and particularly be content with modeſt Apparel, and labour after the Ornaments of the inward Man. Let your Souls be adorned with Grace, which will make you aimable in the ſight of God, and all holy Men: Get your Sins mortified, and you will ſoon ſee what Habit will beſt become you. If the Heart be but healed of its inward Pride, that will ſoon put a curb to the Exceſſes of the outward. Nothing God hates more then Pride and a haughty Heart.</p>
                </sp>
                <sp>
-                  <pb n="43" facs="tcp:039314_0052_1013FC8822282BD0"/>
+                  <pb n="43" facs="unknown:039314_0052_1013FC8822282BD0"/>
                   <speaker>Daugh.</speaker>
                   <p>
                      <hi>But, pray Sir, doth not God allow ſome things for Orna<g ref="char:EOLhyphen"/>ments?</hi>
@@ -1757,10 +1758,10 @@ abide in my love. Come, give your ſelves up to Prayer, and ſtrive to be Sober 
                      </gap>ares and Temptations, and Religion to ſhame and reproch? Some now-a-days that attend on Ser<g ref="char:EOLhyphen"/>mons in Chriſtian Aſſemblies, do more become Play Houſes, and yet braſen it out in the face of the Pre<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>cher! O horrid Impudence! <hi>Godlineſs</hi> teaches not to lay out ſo much Money to adorn the Body,
-<pb n="44" facs="tcp:039314_0053_1013FCDA6CCE0FF0"/>
+<pb n="44" facs="unknown:039314_0053_1013FCDA6CCE0FF0"/>
 when ſo many poor Families want Bread; and not to expend foo<g ref="char:EOLhyphen"/>liſhly on Superfluities on the Car<g ref="char:EOLhyphen"/>kaſs, when ſome poor Children of Chriſtian People want neceſ<g ref="char:EOLhyphen"/>ſary Cloathing. Beſides, all Chil<g ref="char:EOLhyphen"/>dren ſhould be contented to go in Apparel, according to the De<g ref="char:EOLhyphen"/>gree, Quality and Ability of their Parents.</p>
                   <p>My Daughters, and ſuch of you that fear God, pray conſider the Rule laid down by the Apoſtle, 1 <hi>Pet.</hi> 2.2, 3, 4. for Regulating Ornaments, is, That they be con<g ref="char:EOLhyphen"/>ſiſtent with a chaſt Converſation; may, viſibly conſiſtent: <hi>Whilſt they behold your chaſte Converſation, &amp;c.</hi> That pure veſtal fire (ſaith one) of <hi>Chaſtity,</hi> that burns upon the Altar of a holy Heart, muſt flame out and ſhine in <hi>Chaſtity</hi> of Words, Actions, Cloathings, and Orna<g ref="char:EOLhyphen"/>ments: For when God commands Chaſtity, he commands whatſo<g ref="char:EOLhyphen"/>ever
-<pb n="45" facs="tcp:039314_0054_1013FC8CAC06F730"/>
+<pb n="45" facs="unknown:039314_0054_1013FC8CAC06F730"/>
 may feed and nouriſh it, ma<g ref="char:EOLhyphen"/>nifeſt or declare it, and forbids whatſoever may endanger it.</p>
                </sp>
                <sp>
@@ -1775,16 +1776,16 @@ may feed and nouriſh it, ma<g ref="char:EOLhyphen"/>nifeſt or declare it, and 
                   <p>But I hope I need ſay no more of this, concern<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>ng vain Garbs and Faſhions to ſome of you; for it rejoyces my Heart to ſee how you labour to adorn your Profeſ<g ref="char:EOLhyphen"/>ſion
-<pb n="46" facs="tcp:039314_0055_1013FCDDE25CD830"/>
+<pb n="46" facs="unknown:039314_0055_1013FCDDE25CD830"/>
 in every reſpect. But as for you, my little Daughters, I have many thoughts and fears concer<g ref="char:EOLhyphen"/>ning you and ſhall, till I ſee Chriſt formed in you. I exhort you to remember what I have ſaid to your Brothers; and endeavor to learn of one <hi>Mary Warren,</hi> born in <hi>May</hi> 1651. aged ten years, who had a bleſſed Work of Grace begun upon her Soul, and gave clear evidence of a victory over Sin and Satan; who when ſhe was asked, whether ſhe was willing to die? replyed, <hi>Ay, very willing; for then I ſhall ſin no more: For (ſaid ſhe) I know Chriſts Blood hath made ſatisfaction for my Sins, &amp;c. I am a Brand pluckt out of the fire, and Chriſt will put on me his Robes of Righteouſ<g ref="char:EOLhyphen"/>neſs.</hi>
                   </p>
                   <p>Moreover, there was one <hi>Mary</hi> 
                      <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap> not five years old, who was greatly affected in hearing the
-<pb n="47" facs="tcp:039314_0056_1013FC9021B23C68"/>
+<pb n="47" facs="unknown:039314_0056_1013FC9021B23C68"/>
 Word of God, and would weep bitterly to think what would be<g ref="char:EOLhyphen"/>come of her Soul in another World: She was often obſerved to be in ſecret Duty, and many times came off of her knees with tears: ſhe was alſo (ſaith my Author) greatly afraid of Hypo<g ref="char:EOLhyphen"/>criſie, and of doing any thing to be ſeen of Men to get Commenda<g ref="char:EOLhyphen"/>tion or Praiſe: Her Book was her delight; and O that this little Book may be ſo to you! She was greatly concerned for the Souls of others, to think of their miſe<g ref="char:EOLhyphen"/>rable condition; and wonderful<g ref="char:EOLhyphen"/>ly affected with the love of God to her. Come, my Children here are Examples for you; one of you is much older then ſhe was; but how little do you mind theſe things! What pity is it that ſuch tender Branches as you are, when grown up, ſhould go to Hell! Ah! that you would remember
-<pb n="48" facs="tcp:039314_0057_1013FCE0A77D4C78"/>
+<pb n="48" facs="unknown:039314_0057_1013FCE0A77D4C78"/>
 why you were made, and why re<g ref="char:EOLhyphen"/>deemed by Chriſt's moſt precious Blood! My Prayers are and ſhall be to God for you. Moreover, I would have you get that little Book, called, <hi>A Token for Children,</hi> and another, called, <hi>A Looking Glaſs for Children:</hi> Next to your Bible, pray read in them pretty Books.</p>
                </sp>
             </div>
@@ -1811,7 +1812,7 @@ why you were made, and why re<g ref="char:EOLhyphen"/>deemed by Chriſt's moſt 
                   <p>The holy Scriptures.</p>
                </sp>
                <sp>
-                  <pb n="49" facs="tcp:039314_0058_1013FC936F927F50"/>
+                  <pb n="49" facs="unknown:039314_0058_1013FC936F927F50"/>
                   <speaker>Fa.</speaker>
                   <p>
                      <hi>What Grounds or Arguments haſt thou to believe the Scriptures are the Word of God?</hi>
@@ -1850,7 +1851,7 @@ why you were made, and why re<g ref="char:EOLhyphen"/>deemed by Chriſt's moſt 
                <sp>
                   <speaker>Son.</speaker>
                   <p>By the excellent Spirit
-<pb n="50" facs="tcp:039314_0059_1013FCE32D9D5A58"/>
+<pb n="50" facs="unknown:039314_0059_1013FCE32D9D5A58"/>
 of Holineſs, which every where breathes in them; this is another fair lineament of the hand of God in the framing of them.</p>
                </sp>
                <sp>
@@ -1876,7 +1877,7 @@ of Holineſs, which every where breathes in them; this is another fair lineament
                   <p>The approved Credit and ſincerity of the Pen-men, whom none could ever prove guilty of the leaſt Impoſture.</p>
                </sp>
                <sp>
-                  <pb n="51" facs="tcp:039314_0060_1013FC956052CF90"/>
+                  <pb n="51" facs="unknown:039314_0060_1013FC956052CF90"/>
                   <speaker>Fa·</speaker>
                   <p>
                      <hi>I like theſe too<g ref="char:punc">▪</g> Haſt go<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1907,7 +1908,7 @@ of Holineſs, which every where breathes in them; this is another fair lineament
                <sp>
                   <speaker>Son.</speaker>
                   <p>To theſe aſtoniſhing Mi<g ref="char:EOLhyphen"/>racles, <hi>I</hi> may fitly add the wonder<g ref="char:EOLhyphen"/>ful,
-<pb n="52" facs="tcp:039314_0061_1013FCE70144CC70"/>
+<pb n="52" facs="unknown:039314_0061_1013FCE70144CC70"/>
 preſervation of theſe hol<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap> Writings for ſo many Ages: Ha<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1959,7 +1960,7 @@ preſervation of theſe hol<gap reason="illegible" resp="#PDCC" extent="1 letter
                      </gap> fooliſhneſs, proves its Divin<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>
-                     <pb n="53" facs="tcp:039314_0062_1013FC990A17F048"/>
+                     <pb n="53" facs="unknown:039314_0062_1013FC990A17F048"/>
 Authority, eſpecialy conſidering the Publiſhers of it were general<g ref="char:EOLhyphen"/>ly but weak, ignorant and illite<g ref="char:EOLhyphen"/>rate Perſons, as Fiſher-men, Tent-makers, &amp;c.</p>
                </sp>
                <sp>
@@ -1976,7 +1977,7 @@ Authority, eſpecialy conſidering the Publiſhers of it were general<g ref="cha
                   <speaker>Fa.</speaker>
                   <p>
                      <hi>Thou ſayſt well; and I hope thou haſt found the power and truth of it upon thy own heart; and this Argument, if ſo, thou canſt never
-<pb n="54" facs="tcp:039314_0063_1013FCEAAA3B37E0"/>
+<pb n="54" facs="unknown:039314_0063_1013FCEAAA3B37E0"/>
 loſe; but I will forbear, and hear what thou haſt further to ſay.</hi>
                   </p>
                </sp>
@@ -2000,7 +2001,7 @@ loſe; but I will forbear, and hear what thou haſt further to ſay.</hi>
                      </gap> is mentioned by the ſame <hi>Boroſu<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>
-                        <pb n="55" facs="tcp:039314_0064_1013FC9D0A0E1CA8"/>
+                        <pb n="55" facs="unknown:039314_0064_1013FC9D0A0E1CA8"/>
 Joſaphus, Lib.</hi> 1. <hi>Antiq.</hi> 4. The Star that appeared at the Birth of our Saviour, is taken notice of by <hi>Pliny, Lib.</hi> 2. <hi>Cap.</hi> 5.</p>
                </sp>
                <sp>
@@ -2030,10 +2031,10 @@ Joſaphus, Lib.</hi> 1. <hi>Antiq.</hi> 4. The Star that appeared at the Birth o
                   </p>
                </sp>
                <sp>
-                  <pb n="56" facs="tcp:039314_0065_1013FCEF2849F700"/>
+                  <pb n="56" facs="unknown:039314_0065_1013FCEF2849F700"/>
                   <speaker>Son.</speaker>
                   <p>Then Father, if you pleaſe to hear me, It is clear and evi<g ref="char:EOLhyphen"/>dent, ſince Miracles are no where to be found, if the Scripture be not our Rule, or of Divine Au<g ref="char:EOLhyphen"/>thority, God has left us no cer<g ref="char:EOLhyphen"/>tain Rule at all; and that infinite Wiſdom ſhould deal thus with Mankind, is abſurd and unreaſon<g ref="char:EOLhyphen"/>able to conceive. But I have one Argument more: If the Scrip<g ref="char:EOLhyphen"/>tures be not the Invention of Men, then it muſt be from God alone: If of Men, they muſt either be good Men or bad Men. Good Men they could not be; for no<g ref="char:EOLhyphen"/>thing could be more oppoſite to Goodneſs, nay to common Hone<g ref="char:EOLhyphen"/>ſty, than to aſſume the Name of God, and falſly feign Miracles, and cheat People of their Souls. Again, on the other hand, bad Men could not be the Deviſers of ſo holy a Book; can any Man think, that wicked Deceivers
-<pb n="57" facs="tcp:039314_0066_1013FC9EA1CFB748"/>
+<pb n="57" facs="unknown:039314_0066_1013FC9EA1CFB748"/>
 would ſo highly advance the Glo<g ref="char:EOLhyphen"/>ry of God? Would they ſo abaſe themſelves, and brand and ſtig<g ref="char:EOLhyphen"/>matize their own Practices? Could ſuch an admirable Righte<g ref="char:EOLhyphen"/>ouſneſs, and Self-denial, as runs through a very vein of the Scrip<g ref="char:EOLhyphen"/>tures, proceed from the Inven<g ref="char:EOLhyphen"/>tion of wicked Men? Would they have laid ſuch a deſign againſt the Fleſh and all worldly Happineſs? Now if we can't gather Grapes of Thornes, nor Figgs of Thi<g ref="char:EOLhyphen"/>ſtles, then we may be ſure no ill Men had any hand in writing and promoting this Good and Holy Bible.</p>
                </sp>
                <sp>
@@ -2043,7 +2044,7 @@ would ſo highly advance the Glo<g ref="char:EOLhyphen"/>ry of God? Would they �
                   </p>
                </sp>
                <sp>
-                  <pb n="58" facs="tcp:039314_0067_1013FCF1C5E88ED8"/>
+                  <pb n="58" facs="unknown:039314_0067_1013FCF1C5E88ED8"/>
                   <speaker>Son.</speaker>
                   <p>Only this I have in the laſt place to ſay: Were not the Scripture of Divine Authority, the Devil certainly would never have been in ſuch rage againſt it<g ref="char:punc">▪</g> nor endeavoured as he hath, and continually doth, to hinder Men from cloſing in with the Truth therein contained.</p>
                </sp>
@@ -2079,7 +2080,7 @@ would ſo highly advance the Glo<g ref="char:EOLhyphen"/>ry of God? Would they �
                <sp>
                   <speaker>Son.</speaker>
                   <p>God is a Spirit, of and from Himſelf, without Begin<g ref="char:EOLhyphen"/>ning and without Ending, Won<g ref="char:EOLhyphen"/>derful,
-<pb n="59" facs="tcp:039314_0068_1013FCA23A71AF68"/>
+<pb n="59" facs="unknown:039314_0068_1013FCA23A71AF68"/>
 Immenſe, and Infinite in His Eſſence, and Glorious alſo in His Attributes.</p>
                </sp>
                <sp>
@@ -2123,7 +2124,7 @@ Immenſe, and Infinite in His Eſſence, and Glorious alſo in His Attributes.</
                   <p>Angels and Men.</p>
                </sp>
                <sp>
-                  <pb n="60" facs="tcp:039314_0069_1013FCF562C32B80"/>
+                  <pb n="60" facs="unknown:039314_0069_1013FCF562C32B80"/>
                   <speaker>Fa.</speaker>
                   <p>
                      <hi>Why did God make this World?</hi>
@@ -2180,7 +2181,7 @@ Immenſe, and Infinite in His Eſſence, and Glorious alſo in His Attributes.</
                   </p>
                </sp>
                <sp>
-                  <pb n="61" facs="tcp:039314_0070_1013FCA5F053E320"/>
+                  <pb n="61" facs="unknown:039314_0070_1013FCA5F053E320"/>
                   <speaker>Son.</speaker>
                   <p>No; he ſinning againſt God, fell from that eſtate.</p>
                </sp>
@@ -2241,7 +2242,7 @@ Immenſe, and Infinite in His Eſſence, and Glorious alſo in His Attributes.</
                   </p>
                </sp>
                <sp>
-                  <pb n="62" facs="tcp:039314_0071_1013FCF788AABC18"/>
+                  <pb n="62" facs="unknown:039314_0071_1013FCF788AABC18"/>
                   <speaker>Son.</speaker>
                   <p>A twofold puniſhment; firſt, the loſs of earthly Paradice; ſecondly, Death both Spiritual and Temporal, <hi>Gen.</hi> 2.16. <hi>Rom.</hi> 5.12.</p>
                </sp>
@@ -2265,7 +2266,7 @@ Immenſe, and Infinite in His Eſſence, and Glorious alſo in His Attributes.</
                   <p>A woful ſtate and conditi<g ref="char:EOLhyphen"/>on, prone to commit ſin, having loſt Original Righteouſneſs, are brought under the power of Cor<g ref="char:EOLhyphen"/>ruption, and pravity of our whole Nature, and liable to the Wrath and Curſe of God, <hi>Rom.</hi> 5.19. <hi>Gal.</hi> 3.10, 13.</p>
                </sp>
                <sp>
-                  <pb n="63" facs="tcp:039314_0072_1013FCAA5FFC3798"/>
+                  <pb n="63" facs="unknown:039314_0072_1013FCAA5FFC3798"/>
                   <speaker>Fa.</speaker>
                   <p>
                      <hi>Are all Men in this woful condition?</hi>
@@ -2312,7 +2313,7 @@ Immenſe, and Infinite in His Eſſence, and Glorious alſo in His Attributes.</
                   </p>
                </sp>
                <sp>
-                  <pb n="64" facs="tcp:039314_0073_1013FCFAABC08BD8"/>
+                  <pb n="64" facs="unknown:039314_0073_1013FCFAABC08BD8"/>
                   <speaker>Son.</speaker>
                   <p>perfect Righteouſneſs: <hi>Do this &amp; thou ſhalt live, Luk.</hi> 10.21.</p>
                </sp>
@@ -2370,7 +2371,7 @@ Immenſe, and Infinite in His Eſſence, and Glorious alſo in His Attributes.</
                   <speaker>Fa.</speaker>
                   <p>
                      <hi>Was there no other Perſon
-<pb n="65" facs="tcp:039314_0074_1013FCABF03078B8"/>
+<pb n="65" facs="unknown:039314_0074_1013FCABF03078B8"/>
 or means could Redeem us, but Jeſus Chriſt?</hi>
                   </p>
                </sp>
@@ -2407,7 +2408,7 @@ or means could Redeem us, but Jeſus Chriſt?</hi>
                <sp>
                   <speaker>Son.</speaker>
                   <p>Jeſus Chriſt is both God and Man in one Perſon; God of the Subſtance of the Father, begotten before the World began, and yet truly Man: He took our Nature upon him, and therefore is called the Seed of the Woman,
-<pb n="66" facs="tcp:039314_0075_1013FCFEB915C8E8"/>
+<pb n="66" facs="unknown:039314_0075_1013FCFEB915C8E8"/>
                      <hi>Mat.</hi> 22.44, 45. <hi>Phil.</hi> 2.6, 7. <hi>Joh.</hi> 1. 1, 2.2.14.</p>
                </sp>
                <sp>
@@ -2437,7 +2438,7 @@ or means could Redeem us, but Jeſus Chriſt?</hi>
                   </p>
                </sp>
                <sp>
-                  <pb n="67" facs="tcp:039314_0076_1013FCAF5BACD6C0"/>
+                  <pb n="67" facs="unknown:039314_0076_1013FCAF5BACD6C0"/>
                   <speaker>Son.</speaker>
                   <p>That he might by the <hi>worth</hi> and preciouſneſs of his Perſon and Sacrifice, give a plenary <hi>ſatisfaction</hi> to Divine Juſtice, &amp; ſuſtain by the Power of his Godhead in his Fleſh, the heavy Wrath of God. As he was God he could not ſuffer; &amp; as he was meer Man, he could not have overcome Death, <hi>Iſai.</hi> 53.4. <hi>Acts</hi> 2.24. 1 <hi>Pet.</hi> 3.18. <hi>John</hi> 1, 2. <hi>&amp;</hi> 4, 5.</p>
                </sp>
@@ -2462,7 +2463,7 @@ or means could Redeem us, but Jeſus Chriſt?</hi>
                <sp>
                   <speaker>Son.</speaker>
                   <p>Jeſus Chriſt is in Heaven,
-<pb n="68" facs="tcp:039314_0077_1013FD0151208580"/>
+<pb n="68" facs="unknown:039314_0077_1013FD0151208580"/>
 he ſat down at the Right Hand of God, and there appears to make Interceſſion for us, <hi>Heb.</hi> 1.3. <hi>Heb.</hi> 8.3.</p>
                </sp>
                <sp>
@@ -2496,7 +2497,7 @@ he ſat down at the Right Hand of God, and there appears to make Interceſſion 
                      </gap>hetical Offices.</p>
                </sp>
                <sp>
-                  <pb n="69" facs="tcp:039314_0078_1013FCB32312AB10"/>
+                  <pb n="69" facs="unknown:039314_0078_1013FCB32312AB10"/>
                   <speaker>Fa.</speaker>
                   <p>
                      <hi>How doth Chriſt execute the<g ref="char:punc">▪</g> Office of a Prieſt?</hi>
@@ -2541,7 +2542,7 @@ he ſat down at the Right Hand of God, and there appears to make Interceſſion 
                <sp>
                   <speaker>Son.</speaker>
                   <p>No verily, he has no Suc<g ref="char:EOLhyphen"/>ceſſor nor Vicar, becauſe he abides
-<pb n="70" facs="tcp:039314_0079_1013FD02D71D6B60"/>
+<pb n="70" facs="unknown:039314_0079_1013FD02D71D6B60"/>
 himſelf a Prieſt for ever, to diſ<g ref="char:EOLhyphen"/>charge the whole Work of his Prieſtly Office; and ſo did not <hi>Aaron</hi> nor the Prieſts of his Order, <hi>Heb.</hi> 7.25.</p>
                </sp>
                <sp>
@@ -2565,7 +2566,7 @@ himſelf a Prieſt for ever, to diſ<g ref="char:EOLhyphen"/>charge the whole Wo
                <sp>
                   <speaker>Son.</speaker>
                   <p>Becauſe this would ren<g ref="char:EOLhyphen"/>der the Sacrifice of Chriſt, weak and imperfect; beſides, the A<g ref="char:EOLhyphen"/>poſtle ſaith, <hi>Where Remiſſion of
-<pb n="71" facs="tcp:039314_0080_1013FCB58D915BB0"/>
+<pb n="71" facs="unknown:039314_0080_1013FCB58D915BB0"/>
 ſins is, there is no more Offering for ſin, Heb.</hi> 10.18.</p>
                </sp>
                <sp>
@@ -2595,7 +2596,7 @@ himſelf a Prieſt for ever, to diſ<g ref="char:EOLhyphen"/>charge the whole Wo
                   </p>
                </sp>
                <sp>
-                  <pb n="72" facs="tcp:039314_0081_1013FD0635602F40"/>
+                  <pb n="72" facs="unknown:039314_0081_1013FD0635602F40"/>
                   <speaker>Son.</speaker>
                   <p>The Laws of Jeſus Chriſt are written and contained in the ſacred Scriptures, which we call the holy Bible, <hi>Joh</hi> 20. 2 <hi>Tim.</hi> 3.</p>
                </sp>
@@ -2627,7 +2628,7 @@ himſelf a Prieſt for ever, to diſ<g ref="char:EOLhyphen"/>charge the whole Wo
                   </p>
                </sp>
                <sp>
-                  <pb n="73" facs="tcp:039314_0082_1013FCB87459E6B8"/>
+                  <pb n="73" facs="unknown:039314_0082_1013FCB87459E6B8"/>
                   <speaker>Son.</speaker>
                   <p>By his expounding the Law of <hi>Moſes</hi> ſhewing what is paſt and fulfilled? and alſo by ſhewing what ſhall be hereafter, <hi>Mat.</hi> 24.</p>
                </sp>
@@ -2663,7 +2664,7 @@ himſelf a Prieſt for ever, to diſ<g ref="char:EOLhyphen"/>charge the whole Wo
                   <p>Effectual Calling is the Work of God's Spirit, whereby he convincing us of Sin, and o<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap> our woful Condition by Nature, en<g ref="char:EOLhyphen"/>lightens
-<pb n="74" facs="tcp:039314_0083_1013FD08B6626CA0"/>
+<pb n="74" facs="unknown:039314_0083_1013FD08B6626CA0"/>
 our Minds in the know<g ref="char:EOLhyphen"/>ledge of Chriſt, &amp; infuſeth a prin<g ref="char:EOLhyphen"/>ciple of Grace and new Habits in our Souls, <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap> 
@@ -2700,7 +2701,7 @@ our Minds in the know<g ref="char:EOLhyphen"/>ledge of Chriſt, &amp; infuſeth 
                <sp>
                   <speaker>Son.</speaker>
                   <p>Juſtification is an Act of Gods rich Grace, through the Re<g ref="char:EOLhyphen"/>demption which is in Jeſus Chriſt, wherein he freely Pardoneth and Acquitteth us of all our Sins, and accepteth us as Righteous, through the Imputation of Chriſts perfect
-<pb n="75" facs="tcp:039314_0084_1013FCBC05B332B0"/>
+<pb n="75" facs="unknown:039314_0084_1013FCBC05B332B0"/>
 Righteouſneſs, <hi>Rom.</hi> 3.23. <hi>Rom.</hi> 5.1· <hi>Gal.</hi> 2.16.</p>
                </sp>
                <sp>
@@ -2732,7 +2733,7 @@ Righteouſneſs, <hi>Rom.</hi> 3.23. <hi>Rom.</hi> 5.1· <hi>Gal.</hi> 2.16.</p>
                <sp>
                   <speaker>Son.</speaker>
                   <p>It is the work of God's Spirit, called the new Birth and the new Creature; by the means of which we are Born again, or have a new Heart, a new Spirit,
-<pb n="76" facs="tcp:039314_0085_1013FD0B4BE6B120"/>
+<pb n="76" facs="unknown:039314_0085_1013FD0B4BE6B120"/>
 and a new Life; the evil Qualities and Habits of our Hearts being changed, Holy and Heavenly Qua<g ref="char:EOLhyphen"/>lities and Habits are infuſed in the room of them, <hi>John.</hi> 3.3.5. 2 <hi>Cor.</hi> 5.17.</p>
                </sp>
                <sp>
@@ -2760,7 +2761,7 @@ and a new Life; the evil Qualities and Habits of our Hearts being changed, Holy 
                   <speaker>Fa.</speaker>
                   <p>
                      <hi>How may a weak Chriſtian know his Repentance is true and of the
-<pb n="77" facs="tcp:039314_0086_1013FCBF781C78B0"/>
+<pb n="77" facs="unknown:039314_0086_1013FCBF781C78B0"/>
 right kind?</hi>
                   </p>
                </sp>
@@ -2787,7 +2788,7 @@ right kind?</hi>
                <sp>
                   <speaker>Son.</speaker>
                   <p>He deſires as much to have his Sins mortified as to have them Pardoned; to be freed from the filth of them, as from the guilt of them, in a word, to be made Holy
-<pb n="78" facs="tcp:039314_0087_1013D71D13F187A0"/>
+<pb n="78" facs="unknown:039314_0087_1013D71D13F187A0"/>
 as well as to be made Happy; to be Sanctified here, as well as to be Saved hereafter, <hi>Pſal.</hi> 71.6.7·8. <hi>Mat.</hi> 5.6.</p>
                </sp>
                <sp>
@@ -2814,7 +2815,7 @@ as well as to be made Happy; to be Sanctified here, as well as to be Saved herea
                   <speaker>Fa.</speaker>
                   <p>
                      <hi>What is true Juſtifying Faith,
-<pb n="79" facs="tcp:039314_0088_1013FCC12DBC6790"/>
+<pb n="79" facs="unknown:039314_0088_1013FCC12DBC6790"/>
 or the Faith of God's Elect?</hi>
                   </p>
                </sp>
@@ -2841,7 +2842,7 @@ or the Faith of God's Elect?</hi>
                <sp>
                   <speaker>Son.</speaker>
                   <p>He that may be ſaid to be<g ref="char:EOLhyphen"/>lieve, and in a true manner to relie on Jeſus Chriſt, who hath no de<g ref="char:EOLhyphen"/>pendence for Salvation on any
-<pb n="80" facs="tcp:039314_0089_1013FD0FD5BB2FC8"/>
+<pb n="80" facs="unknown:039314_0089_1013FD0FD5BB2FC8"/>
 thing done by him or in him but as a poor Undon Creature goes to Chriſt, and relies upon his Merits and Righteouſneſs alone, <hi>Rom.</hi> 3 22. <hi>&amp;</hi> 4.2. 1 <hi>Cor.</hi> 4.4.</p>
                </sp>
                <sp>
@@ -2868,7 +2869,7 @@ thing done by him or in him but as a poor Undon Creature goes to Chriſt, and re
                   <speaker>Fa.</speaker>
                   <p>
                      <hi>VVhat is another ſign of true
-<pb n="81" facs="tcp:039314_0090_1013FCC56706A960"/>
+<pb n="81" facs="unknown:039314_0090_1013FCC56706A960"/>
 of true Faith?</hi>
                   </p>
                </sp>
@@ -2897,7 +2898,7 @@ of true Faith?</hi>
                   <p>Becauſe no other Righte<g ref="char:EOLhyphen"/>ouſneſs will nor can be accepted or avail to Salvation, but that which is perfect: 'tis ſuch a Righteouſ<g ref="char:EOLhyphen"/>neſs only, that God and his Holy Law requir<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>s in point of Juſtifi<g ref="char:EOLhyphen"/>cation. Now our beſt Works and Righteouſneſs are Imperfect, and defiled with Sin: <hi>Curſed is every one that continues not in all things that are written in the Law to do them,</hi> Gal. 3.10. Hence, <hi>He that
-<pb n="82" facs="tcp:039314_0091_1013FD14B7496D58"/>
+<pb n="82" facs="unknown:039314_0091_1013FD14B7496D58"/>
 believes not in Chriſt ſhall be damned,</hi> Mark 16.16. Iſa. 6.4.6. Phil. 3.8.</p>
                </sp>
                <sp>
@@ -2929,7 +2930,7 @@ believes not in Chriſt ſhall be damned,</hi> Mark 16.16. Iſa. 6.4.6. Phil. 3.
                <sp>
                   <speaker>Son.</speaker>
                   <p>The outward and more
-<pb n="83" facs="tcp:039314_0092_1013FCC93990E488"/>
+<pb n="83" facs="unknown:039314_0092_1013FCC93990E488"/>
 ordinary means whereby God doth this, is by Preaching the Goſpel, <hi>Rom.</hi> 10.17. &amp; 1.16. 1 <hi>Cor</hi> 1.21.</p>
                </sp>
                <sp>
@@ -2956,7 +2957,7 @@ ordinary means whereby God doth this, is by Preaching the Goſpel, <hi>Rom.</hi>
                   <p>They are Two.</p>
                </sp>
                <sp>
-                  <pb n="84" facs="tcp:039314_0093_1013FD1829A60490"/>
+                  <pb n="84" facs="unknown:039314_0093_1013FD1829A60490"/>
                   <speaker>Fa.</speaker>
                   <p>
                      <hi>Which are they?</hi>
@@ -2985,7 +2986,7 @@ ordinary means whereby God doth this, is by Preaching the Goſpel, <hi>Rom.</hi>
                <sp>
                   <speaker>Son.</speaker>
                   <p>No, by no means; becauſe the word <hi>Baptiſo</hi> or <hi>Baptiſm,</hi> doth not at all ſignifie Sprinkling; the <hi>Greeks</hi> have another peculiar word
-<pb n="85" facs="tcp:039314_0094_1013FCCC4F56DD58"/>
+<pb n="85" facs="unknown:039314_0094_1013FCCC4F56DD58"/>
 to expreſs Sprinkling, <hi>viz. Rantiz<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>.</hi>
@@ -3022,7 +3023,7 @@ to expreſs Sprinkling, <hi>viz. Rantiz<gap reason="illegible" resp="#PDCC" exte
                <sp>
                   <speaker>Son.</speaker>
                   <p>Becauſe ſprinkling doth not,
-<pb n="86" facs="tcp:039314_0095_1013FD1A9E56DC68"/>
+<pb n="86" facs="unknown:039314_0095_1013FD1A9E56DC68"/>
 cannot anſwer the end of Chriſt, in his inſtituting and ordaining of this Ordinance; neither doth ſprinkling a little Water, Repre<g ref="char:EOLhyphen"/>ſent or Anſwer thoſe things, which are ſignified by <hi>Baptiſm</hi>
                   </p>
                </sp>
@@ -3041,7 +3042,7 @@ cannot anſwer the end of Chriſt, in his inſtituting and ordaining of this Ord
                      </gap> we ſhould walk in newneſs of Life Now ſprinkling cannot be a Figur<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>
-                     <pb n="87" facs="tcp:039314_0096_1013FCCE30DC54D0"/>
+                     <pb n="87" facs="unknown:039314_0096_1013FCCE30DC54D0"/>
 of any of theſe things, <hi>Rom.</hi> 6.2, <hi>&amp;c</hi>
                   </p>
                </sp>
@@ -3064,7 +3065,7 @@ of any of theſe things, <hi>Rom.</hi> 6.2, <hi>&amp;c</hi>
                   </p>
                </sp>
                <sp>
-                  <pb n="88" facs="tcp:039314_0097_1013FD201C8C0F48"/>
+                  <pb n="88" facs="unknown:039314_0097_1013FD201C8C0F48"/>
                   <speaker>Fa.</speaker>
                   <p>
                      <hi>VVhat think you then of ſprink<g ref="char:EOLhyphen"/>ling or Chriſtning, as its call'd?</hi>
@@ -3087,7 +3088,7 @@ of any of theſe things, <hi>Rom.</hi> 6.2, <hi>&amp;c</hi>
                   <p>Only ſuch who Believe, and are actually Capable to enter into a Viſible Covenant with Jeſus Chriſt; for it is an Ordinance of the Solemnization of the Souls Marriage with Chriſt, <hi>Gal.</hi> 3.27.</p>
                </sp>
                <sp>
-                  <pb n="89" facs="tcp:039314_0098_1013FCD203366728"/>
+                  <pb n="89" facs="unknown:039314_0098_1013FCD203366728"/>
                   <speaker>Fa.</speaker>
                   <p>
                      <hi>What is required of Perſons that are to be Baptized?</hi>
@@ -3116,7 +3117,7 @@ of any of theſe things, <hi>Rom.</hi> 6.2, <hi>&amp;c</hi>
                <sp>
                   <speaker>Son.</speaker>
                   <p>God Expreſly commanded <hi>Abraham</hi> to Circumciſe his Male Children under that Diſpenſation, but he hath not commanded Belie<g ref="char:EOLhyphen"/>vers to Baptize their Children un<g ref="char:EOLhyphen"/>der the Goſpel; and to do that in God's Worſhip, which God has not commanded, is dangerous, as
-<pb n="90" facs="tcp:039314_0099_1013FDB8DFFDAAB0"/>
+<pb n="90" facs="unknown:039314_0099_1013FDB8DFFDAAB0"/>
 appears in, <hi>Nadab</hi> and <hi>Abihu's</hi> Caſe, <hi>Levit.</hi> 10.1.2.</p>
                </sp>
                <sp>
@@ -3140,7 +3141,7 @@ appears in, <hi>Nadab</hi> and <hi>Abihu's</hi> Caſe, <hi>Levit.</hi> 10.1.2.</
                   <p>It doth not therefore fol<g ref="char:EOLhyphen"/>low, any Infants were Baptized, unleſs our <gap reason="illegible" resp="#PDCC" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> could prove there were no whole Houſholds, but ſuch in whom were ſome Chil<g ref="char:EOLhyphen"/>dren in Nonage; beſides, it is ſaid, That <hi>St. Paul</hi> Preached the Goſpel to the <hi>Jaylor,</hi> and to all that were in his Houſe; and that he Believed
-<pb n="91" facs="tcp:039314_0100_1013FD6534BF3C20"/>
+<pb n="91" facs="unknown:039314_0100_1013FD6534BF3C20"/>
 in God with all his Heart, and Re<g ref="char:EOLhyphen"/>joyced with all his Houſe: As well as it is ſaid, He <hi>was Baptized, with all his Houſe, Acts</hi> 16.32, 33.</p>
                </sp>
                <sp>
@@ -3162,7 +3163,7 @@ in God with all his Heart, and Re<g ref="char:EOLhyphen"/>joyced with all his Ho
                      </gap>.31.</p>
                </sp>
                <sp>
-                  <pb n="92" facs="tcp:039314_0101_1013FD269BEE2198"/>
+                  <pb n="92" facs="unknown:039314_0101_1013FD269BEE2198"/>
                   <speaker>Fa.</speaker>
                   <p>
                      <hi>What other Reaſon have yo<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -3182,7 +3183,7 @@ in God with all his Heart, and Re<g ref="char:EOLhyphen"/>joyced with all his Ho
                <sp>
                   <speaker>Son.</speaker>
                   <p>But though Water is not there expreſſed, it is implyed, be<g ref="char:EOLhyphen"/>cauſe the Apoſtles could not Bap<g ref="char:EOLhyphen"/>tize with the Holy Ghoſt, for that is the Prerogative of Chriſt alone; beſides, that which the Lord Jeſus commanded them to Baptize
-<pb n="93" facs="tcp:039314_0102_1013FD679E1CFC00"/>
+<pb n="93" facs="unknown:039314_0102_1013FD679E1CFC00"/>
 with, was that which they did Baptize with; but palpable it i<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>, that that which the Apoſtles Bap<g ref="char:EOLhyphen"/>tized with, was Water. <hi>Can any man forbid Water, that theſe ſhould not be Baptized? &amp;c. Acts</hi> 10.47.</p>
@@ -3204,7 +3205,7 @@ with, was that which they did Baptize with; but palpable it i<gap reason="illegi
                      <hi>Paul</hi> to baptize, be<g ref="char:EOLhyphen"/>cauſe he and other <gap reason="illegible" resp="#PDCC" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> did
-<pb n="94" facs="tcp:039314_0103_1013FD2AFA6130C0"/>
+<pb n="94" facs="unknown:039314_0103_1013FD2AFA6130C0"/>
 baptize in Chriſt's Name, and commanded others ſo to be; that is, by his Command &amp; Authority, <hi>Acts</hi> 10.47. 1 <hi>Cor.</hi> 1.13, 14.</p>
                </sp>
                <sp>
@@ -3236,7 +3237,7 @@ baptize in Chriſt's Name, and commanded others ſo to be; that is, by his Comma
                <sp>
                   <speaker>Son.</speaker>
                   <p>The Church of God is a company of Believers, or Godly Chriſtians, Incorporated together
-<pb n="95" facs="tcp:039314_0104_1013FD6920D7BAE8"/>
+<pb n="95" facs="unknown:039314_0104_1013FD6920D7BAE8"/>
 into an Holy Fellowſhip and Com<g ref="char:EOLhyphen"/>munion in Love &amp; Heavenly Con<g ref="char:EOLhyphen"/>cord according to the Apoſtolical Conſtitution, among whom the Word of God is truly Preached &amp; the Holy Ordinances of Chriſt are duly &amp; rightly Adminiſtred, <hi>Acts</hi> 2.40, 41, 42, 43, 44, &amp;c.</p>
                </sp>
                <sp>
@@ -3255,7 +3256,7 @@ into an Holy Fellowſhip and Com<g ref="char:EOLhyphen"/>munion in Love &amp; He
                   <speaker>Fa.</speaker>
                   <p>
                      <hi>Who ought to be received into
-<pb n="96" facs="tcp:039314_0105_1013FD2E4907F360"/>
+<pb n="96" facs="unknown:039314_0105_1013FD2E4907F360"/>
 Gods Church?</hi>
                   </p>
                </sp>
@@ -3305,7 +3306,7 @@ Gods Church?</hi>
                      <hi>What doth <gap reason="illegible" resp="#PDCC" extent="1 word">
                            <desc>〈◊〉</desc>
                         </gap> Bread and
-<pb n="97" facs="tcp:039314_0106_1013FD6B9FE90970"/>
+<pb n="97" facs="unknown:039314_0106_1013FD6B9FE90970"/>
 Wine ſignifie?</hi>
                   </p>
                </sp>
@@ -3335,7 +3336,7 @@ Wine ſignifie?</hi>
                   <speaker>Son.</speaker>
                   <p>'Tis a Figurative Speech; he ſays alſo in another Place, <hi>I am a Vine, a Door, a VVay, &amp;c.</hi> He is called, a <hi>Rock,</hi> 'tis ſaid that <hi>Rock</hi> is Chriſt, 1<g ref="char:punc">▪</g> 
                      <hi>Cor.</hi> 10.4. Which Scriptures, are all to be taken figuratively; <hi>This is my Body,</hi> 'tis as if he ſhould ſay, this is a <hi>Sign</hi> or <hi>Figure</hi> of <hi>my Body,</hi> for 'tis called <hi>Bread</hi> before it was Bleſſed, and alſo after it was Bleſſed; and 'tis called <hi>Bread,</hi> which the Diſciples did eat, 1 <hi>Cor.</hi> 11.26. <hi>The Bread which we bleſs, is it not the Commu<g ref="char:EOLhyphen"/>nion of the Body of Chriſt? &amp;c.</hi>
-                     <pb n="98" facs="tcp:039314_0107_1013FD31A2489898"/>
+                     <pb n="98" facs="unknown:039314_0107_1013FD31A2489898"/>
 1<g ref="char:punc">▪</g> Cor. 1<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap> 16. Beſides, 'tis againſt <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -3388,7 +3389,7 @@ Wine ſignifie?</hi>
                   <p>It ſtrengthens our Faith in Chriſt, and increaſes our Love to Chriſt, and gloriouſly refreſhes our Souls, by Communion with him in all the Graces &amp; Comforts of the Holy Spirit.</p>
                </sp>
                <sp>
-                  <pb n="99" facs="tcp:039314_0108_1013FD718E6F7AF8"/>
+                  <pb n="99" facs="unknown:039314_0108_1013FD718E6F7AF8"/>
                   <speaker>Fa.</speaker>
                   <p>
                      <hi>What other uſe is it of to us<g ref="char:punc">▪</g>
@@ -3428,7 +3429,7 @@ Wine ſignifie?</hi>
                <sp>
                   <speaker>Son.</speaker>
                   <p>It holds forth, not only the inconceivable Love of Chrſt,
-<pb n="100" facs="tcp:039314_0109_1013FD3326EE2020"/>
+<pb n="100" facs="unknown:039314_0109_1013FD3326EE2020"/>
 in giving his Body to be broken, and his Blood to be ſhed for us; but alſo the horrible Nature, or exceeding ſinfulneſs of Sin, in that nothing could Attone, or make Re<g ref="char:EOLhyphen"/>conciliation with God for it, but the precious Blood of Jeſus <hi>Chriſt.</hi>
                   </p>
                </sp>
@@ -3451,7 +3452,7 @@ in giving his Body to be broken, and his Blood to be ſhed for us; but alſo the
                <sp>
                   <speaker>Son.</speaker>
                   <p>They ought to examine themſelves; it calls for due Pre<g ref="char:EOLhyphen"/>paration, <hi>viz.</hi> a ſincere Confeſſi<g ref="char:EOLhyphen"/>on of Sins, and godly Sorrow for the ſame<g ref="char:punc">▪</g> They ought to come with clean Hands, &amp; a pure Heart; alſo forgiving all that have offend<g ref="char:EOLhyphen"/>ed them; they muſt not eat with the Bread of Malice and Wick<g ref="char:EOLhyphen"/>edneſs: Faith alſo is required in
-<pb n="101" facs="tcp:039314_0110_1013FD7311BA73C0"/>
+<pb n="101" facs="unknown:039314_0110_1013FD7311BA73C0"/>
 the Death and Blood-ſheding of Chriſt: And laſtly, a Sin-loathing, and Self-abhoring of themſelves.</p>
                </sp>
                <sp>
@@ -3496,7 +3497,7 @@ the Death and Blood-ſheding of Chriſt: And laſtly, a Sin-loathing, and Self-a
                <sp>
                   <speaker>Son.</speaker>
                   <p>Yea; for if it were not the
-<pb n="102" facs="tcp:039314_0111_1013FD3587A6E0A8"/>
+<pb n="102" facs="unknown:039314_0111_1013FD3587A6E0A8"/>
 ſame Body, it could not be called a Reſurrection, but rather a New Creation; and if it were not the <hi>ſame Body,</hi> then it would not be <hi>that</hi> Body of the wicked, that ſinned, nor that Body of the godly, that ſuffered; and conſequently God would puniſh an innocent Body, <hi>Job</hi> 19.25. <hi>Joh.</hi> 11.24. cap. 5.28.</p>
                </sp>
                <sp>
@@ -3526,7 +3527,7 @@ the Death and Blood-ſheding of Chriſt: And laſtly, a Sin-loathing, and Self-a
                   </p>
                </sp>
                <sp>
-                  <pb n="103" facs="tcp:039314_0112_1013FD7496491400"/>
+                  <pb n="103" facs="unknown:039314_0112_1013FD7496491400"/>
                   <speaker>Son,</speaker>
                   <p>The Souls of the godly at Death, go immediately to Chriſt, and the Souls of the wicked into Chains of Darkneſs. <hi>Luke</hi> 23.42. &amp; <hi>cap.</hi> 16.22. <hi>Phil.</hi> 23.</p>
                </sp>
@@ -3549,7 +3550,7 @@ the Death and Blood-ſheding of Chriſt: And laſtly, a Sin-loathing, and Self-a
                <sp>
                   <speaker>Son.</speaker>
                   <p>The Wicked ſhall both Body &amp; Soul be caſt into Hell fire, and the Godly ſhall be received in<g ref="char:EOLhyphen"/>to that glorious <hi>Kingdom prepared for them from the Foundation of the World</hi>; the one ſhall be Eternally Miſerable, and the other be Bleſ<g ref="char:EOLhyphen"/>ſed in the perfect enjoyment of
-<pb n="104" facs="tcp:039314_0113_1013FD38224A8C98"/>
+<pb n="104" facs="unknown:039314_0113_1013FD38224A8C98"/>
 God, for Ever and ever. Amen, <hi>Rev.</hi> 20.14, 15. <hi>Mat.</hi> 25.33, 46.</p>
                </sp>
             </div>
@@ -3571,7 +3572,7 @@ God, for Ever and ever. Amen, <hi>Rev.</hi> 20.14, 15. <hi>Mat.</hi> 25.33, 46.<
                </p>
                <p>
                   <hi>Anſ.</hi> Becauſe they cannot go to God as to a Father, they may Pray
-<pb n="105" facs="tcp:039314_0114_1013FD77D6398F58"/>
+<pb n="105" facs="unknown:039314_0114_1013FD77D6398F58"/>
 to him as to a Merciful Creator; but not as to a Father, becauſe they are not his Children; alſo, they cannot Pray, <hi>Forgive us our Treſpaſſes, as we forgive them that Treſpaſs againſt us,</hi> becauſe many of them do not forgive ſuch who Treſpaſs againſt them.</p>
                <p>Qu· <hi>Muſt Children Pray to God?</hi>
                </p>
@@ -3585,7 +3586,7 @@ to him as to a Merciful Creator; but not as to a Father, becauſe they are not h
                </p>
                <p>
                   <hi>Anſ.</hi> They ought to command
-<pb n="106" facs="tcp:039314_0115_1013FD39DF6D8458"/>
+<pb n="106" facs="unknown:039314_0115_1013FD39DF6D8458"/>
 them to Cry to the Real and Mer<g ref="char:EOLhyphen"/>ciful God, in a Humble and Reve<g ref="char:EOLhyphen"/>rent manner to ſhew them their loſt &amp; undone Condition without Chriſt, and to give them Wiſdom and his Heavenly Grace to renew his Image in them, loſt by the Fall of <hi>Adam,</hi> and to beſtow theſe and all other good things upon them for Chriſts ſake.</p>
                <p>Qu. <hi>How ſhould God's Children Pray, according to thoſe Directions given in the Lord's Prayer?</hi>
                </p>
@@ -3594,7 +3595,7 @@ them to Cry to the Real and Mer<g ref="char:EOLhyphen"/>ciful God, in a Humble a
                <p>Queſt. <hi>What are we taught to Pray for in the firſt Petition?</hi>
                </p>
                <p>
-                  <pb n="107" facs="tcp:039314_0116_1013FD7DE00CE908"/>
+                  <pb n="107" facs="unknown:039314_0116_1013FD7DE00CE908"/>
                   <hi>Anſ.</hi> In theſe words, <hi>Hallowed be thy Name,</hi> we are taught to glo<g ref="char:EOLhyphen"/>rifie God in all his Attributes, or howſoever elſe he is made known to us and that every thing may ten<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> to his own Glory, and to ſeek his Glory before our own good.</p>
@@ -3607,7 +3608,7 @@ them to Cry to the Real and Mer<g ref="char:EOLhyphen"/>ciful God, in a Humble a
                </p>
                <p>
                   <hi>Anſ.</hi> In the third Petition, <hi>Thy Will be done,</hi> we are taught to Pray that God by Grace would help us
-<pb n="108" facs="tcp:039314_0117_1013FD3EF9759840"/>
+<pb n="108" facs="unknown:039314_0117_1013FD3EF9759840"/>
 to do (and ſubmit to) his Will in all things, as the Angels do it in Heaven.</p>
                <p>Queſt. <hi>What is it we deſire or are to Pray for in the fourth Petition?</hi>
                </p>
@@ -3617,7 +3618,7 @@ to do (and ſubmit to) his Will in all things, as the Angels do it in Heaven.</p
                </p>
                <p>
                   <hi>Anſ.</hi> In the fifth Petition, <hi>And forgive us our Treſpaſſes, as we forgive them that Treſpaſs againſt us,</hi> we are taught to ask Forgiveneſs or Pardon of God, <hi>viz.</hi> that he would through the Attonement Chriſt hath made by his Blood, forgive us all our Sins, and impute Chriſts Righteouſneſs to us by Faith, <hi>Rom.</hi> 3.23. and not only to beg pardon,
-<pb n="109" facs="tcp:039314_0118_1013FD7F6445E768"/>
+<pb n="109" facs="unknown:039314_0118_1013FD7F6445E768"/>
 but alſo the ſence or ſight of Par<g ref="char:EOLhyphen"/>don and Forgiveneſs.</p>
                <p>
                   <hi>Queſt. What do we ask of God in the ſixth Petition?</hi>
@@ -3632,10 +3633,10 @@ but alſo the ſence or ſight of Par<g ref="char:EOLhyphen"/>don and Forgivene�
                </p>
                <p>
                   <hi>Anſ.</hi> I learn<g ref="char:punc">▪</g> that we ought to
-<pb n="110" facs="tcp:039314_0119_1013FD4083E7D508"/>
+<pb n="110" facs="unknown:039314_0119_1013FD4083E7D508"/>
 Pray in the Spirit, that my Spirit muſt Pray; &amp; that too, by the help of the holy Spirit of God; ad that I ought to Pray with Under<g ref="char:EOLhyphen"/>ſtanding. And moreover, we muſt Pray in Truth, <hi>viz.</hi> Speak no more with our Tongues, then doth agree with our Hearts; and that we ought to lift up holy Hands, Pray with an Heart ſet againſt, hating and loathing all manner of Sin and Evil, &amp; to Pray fervently, in Faith, Conſtantly, and to Pray according to the Will of God, &amp; to put up all Prayer in the Name of Jeſus Chriſt. And laſtly, That we ought in the firſt place to ſeek the Honour of God before our one good, and to ſeek the good of our Souls before the good of our Bodies; and that we ſhould in Prayer deſign &amp; ſeek the good of others, as well as our own good.</p>
                <p>Queſt. <hi>How is Jeſus Chriſt Our
-<pb n="111" facs="tcp:039314_0120_1013FD8103E36450"/>
+<pb n="111" facs="unknown:039314_0120_1013FD8103E36450"/>
 Mediator made known or manifeſted to us?</hi>
                </p>
                <p>
@@ -3649,10 +3650,10 @@ Mediator made known or manifeſted to us?</hi>
                <sp>
                   <speaker>Son.</speaker>
                   <p>I believe with my Heart, and confeſs with my mouth, That God is one Almighty, Eternal,
-<pb n="112" facs="tcp:039314_0121_1013FD44A82FDF50"/>
+<pb n="112" facs="unknown:039314_0121_1013FD44A82FDF50"/>
 Infinit and Admirable Eſſence, and is unſpeakably Glorious in all his Attributes; who by his mighty Power and Wiſdom made Heaven &amp; Earth &amp; all things therein.</p>
                   <p>I alſo believe in Jeſus Chriſt our Lord, who is the only begotten Son of God, being the brightneſs of his Glory, &amp; the expreſs Image of his Perſon; and as he is verily God of the Subſtance of the Father, ſo he is truly Man; he took on him the Seed of <hi>Abraham,</hi> being concei<g ref="char:EOLhyphen"/>ved by the holy Ghoſt; he was Born of the <hi>Virgin Mary,</hi> and was Condemned by <hi>Pontius Pilate,</hi> &amp; that he ſuffered Death to Redeem me and all thoſe who truly believe in him, and that there is no Re<g ref="char:EOLhyphen"/>miſſion of Sin but by his Blood; I alſo believe he Roſe again the Third Day, and Aſcended into Heaven above, and ſitteth now at the right hand of God, to make Interceſſion for us; and that from
-<pb n="113" facs="tcp:039314_0122_1013FD854A0A6B58"/>
+<pb n="113" facs="unknown:039314_0122_1013FD854A0A6B58"/>
 thence he ſhall come again at the End of the World, to be the judge of the quick and dead.</p>
                   <p>I alſo believe in God the holy Ghoſt, who is one with the Father &amp; the Son, proceeding from them, who is my Sanctifier, &amp; the Sancti<g ref="char:EOLhyphen"/>fier of all the Elect People of God.</p>
                   <p>I believe likewiſe that God hath one Holy and Bleſſed Church on Earth (who are a ſelect People ſeperated from the evil cuſtoms &amp; worſhips of the World) and I believe the Reſurrection of the Dead, the Eternal Judgment with the Life everlaſting, <hi>Amen</hi>
@@ -3679,7 +3680,7 @@ thence he ſhall come again at the End of the World, to be the judge of the quic
                <l>And then betimes ſee thou do pray,</l>
                <l>That God would keep thee all the Day</l>
                <l>
-                  <pb n="114" facs="tcp:039314_0123_1013FD4978341B78"/>From thoſe great dangers which befall</l>
+                  <pb n="114" facs="unknown:039314_0123_1013FD4978341B78"/>From thoſe great dangers which befall</l>
                <l>Oft times on Young, on great and ſmall;</l>
                <l>And pray to God his Grace to give,</l>
                <l>In his bleſt fear all day to live,</l>
@@ -3724,7 +3725,7 @@ thence he ſhall come again at the End of the World, to be the judge of the quic
          </div>
          <div n="3" type="part">
             <div type="measures_of_time">
-               <pb n="115" facs="tcp:039314_0124_1013FD88CE3E8F88"/>
+               <pb n="115" facs="unknown:039314_0124_1013FD88CE3E8F88"/>
                <head>Of TIME.</head>
                <p>TIme conſiſts of Years, Months, Weeks, Days, Hours &amp; Mi<g ref="char:EOLhyphen"/>nutes, of which 60 Minutes makes an Hour, 24 Hours a natural Day, 7 Days, a Week, 4 Weeks a Month, 13 Months 1 day &amp; 6 hours, makes 1 Year. But in the ordinary com<g ref="char:EOLhyphen"/>putation of Time, the Year is di<g ref="char:EOLhyphen"/>vided into 12 Kalander Months, which are commgnly called, <hi>Janu<g ref="char:EOLhyphen"/>ary, February, March, April, May, June, July, Auguſt, September, Octo<g ref="char:EOLhyphen"/>ber, November, December</hi>; but in Scripture, a<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -3738,7 +3739,7 @@ thence he ſhall come again at the End of the World, to be the judge of the quic
                   <hi>February</hi> hath Twenty Eight alone,</l>
                <l>All the reſt Thirty and One.</l>
                <p>So that the year contains 365 days and ſix hours, which hours are ſaved together, and every fourth year one Day added to <hi>February,</hi>
-                  <pb n="116" facs="tcp:039314_0125_1013FD4CB348E800"/>
+                  <pb n="116" facs="unknown:039314_0125_1013FD4CB348E800"/>
 which then contains 29 days, and that year is called <hi>Leap-Year.</hi>
                </p>
                <p>The four Quarter-Days in the year, are <hi>March</hi> 25, call'd <hi>Lady-day, June</hi> 24, called <hi>Midſummer-day, September</hi> 29. call'd <hi>Michaelmaſs-day,</hi> and <hi>December</hi> 25. called <hi>Christmaſs day.</hi>
@@ -3771,7 +3772,7 @@ which then contains 29 days, and that year is called <hi>Leap-Year.</hi>
                   </gap>'er long will be no more.</l>
             </div>
             <div type="biblical_weights_and_measures">
-               <pb n="117" facs="tcp:039314_0126_1013FD8A519BA8F0"/>
+               <pb n="117" facs="unknown:039314_0126_1013FD8A519BA8F0"/>
                <head>Of Scripture Weights, Meaſures and Coyns.</head>
                <list>
                   <item>
@@ -3810,7 +3811,7 @@ which then contains 29 days, and that year is called <hi>Leap-Year.</hi>
                   <item>
                      <hi>An Ephah,</hi> half a Buſhel and a Pottle.</item>
                   <item>
-                     <pb n="118" facs="tcp:039314_0127_1013FD4E3B0763A0"/>
+                     <pb n="118" facs="unknown:039314_0127_1013FD4E3B0763A0"/>
                      <hi>Half Omer,</hi> or <hi>Lethe<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>,</hi> ſeven buſhel and a quart.</item>
@@ -3855,7 +3856,7 @@ which then contains 29 days, and that year is called <hi>Leap-Year.</hi>
                <head>Weights uſed in <hi>England.</hi>
                </head>
                <p>IN <hi>England</hi> they commonly uſe two kinds of Weights, <hi>viz. Troy</hi>
-                  <pb n="119" facs="tcp:039314_0128_1013FD8BF8FC93C8"/>
+                  <pb n="119" facs="unknown:039314_0128_1013FD8BF8FC93C8"/>
 and <hi>Averdupoize</hi>; by <hi>Troy</hi> weight they weigh Wheat, Bread, Gold, Silver, and the like, the leaſt De<g ref="char:EOLhyphen"/>nomination of which is a <hi>Grain,</hi> the weight of a grain of Wheat ga<g ref="char:EOLhyphen"/>thered out of the midle of the Ear, well dryed.</p>
                <list>
                   <item>24 <hi>Grains,</hi> make 1 Penny weight</item>
@@ -3869,7 +3870,7 @@ and <hi>Averdupoize</hi>; by <hi>Troy</hi> weight they weigh Wheat, Bread, Gold,
                   <item>16 <hi>Ounces,</hi> 1 Pound.</item>
                   <item>28 <hi>Pound,</hi> 1 quarter of a hun<g ref="char:EOLhyphen"/>dred.</item>
                   <item>
-                     <pb n="120" facs="tcp:039314_0129_1013FD4FDD27F958"/>58 <hi>Pound,</hi> half a Hundred.</item>
+                     <pb n="120" facs="unknown:039314_0129_1013FD4FDD27F958"/>58 <hi>Pound,</hi> half a Hundred.</item>
                   <item>4 <hi>Quarters,</hi> or 112 <hi>Pound,</hi> make</item>
                   <item>1 Hundred weight.</item>
                   <item>20 <hi>Hundred,</hi> 1 Tun.</item>
@@ -3899,7 +3900,7 @@ and <hi>Averdupoize</hi>; by <hi>Troy</hi> weight they weigh Wheat, Bread, Gold,
                   <item>2 <hi>Gallons,</hi> 1 Peck.</item>
                   <item>2 <hi>Pecks,</hi> 1 Buſhel.</item>
                   <item>
-                     <pb n="121" facs="tcp:039314_0130_1013FD8D87EC1B50"/>8 <hi>Buſhels,</hi> 1 Quarter.</item>
+                     <pb n="121" facs="unknown:039314_0130_1013FD8D87EC1B50"/>8 <hi>Buſhels,</hi> 1 Quarter.</item>
                   <item>4 <hi>Quarters,</hi> 1 Chaldron.</item>
                   <item>5 <hi>Quarters,</hi> 1 Wey.</item>
                </list>
@@ -3935,7 +3936,7 @@ and <hi>Averdupoize</hi>; by <hi>Troy</hi> weight they weigh Wheat, Bread, Gold,
                </p>
             </div>
             <div type="numerals">
-               <pb n="122" facs="tcp:039314_0131_1013FD5168F419B0"/>
+               <pb n="122" facs="unknown:039314_0131_1013FD5168F419B0"/>
                <head>Figures and Numeral Lette<gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
                   </gap>.</head>
@@ -4057,11 +4058,11 @@ and <hi>Averdupoize</hi>; by <hi>Troy</hi> weight they weigh Wheat, Bread, Gold,
                </p>
             </div>
             <div type="numeration">
-               <pb n="123" facs="tcp:039314_0132_1013FD90B866B880"/>
+               <pb n="123" facs="unknown:039314_0132_1013FD90B866B880"/>
                <head>Of Numeration.</head>
                <p>NUmeration teaches how to ſet down any Number ſpoken of or propoſed; to read it truly when written. To which purpoſe you are to take notice, that we com<g ref="char:EOLhyphen"/>monly expreſs all <hi>Numbers</hi> by theſe nine Figures, 1 <hi>One,</hi> 2 <hi>two,</hi> 3 <hi>three,</hi> 4 <hi>four,</hi> 5 <hi>five,</hi> 6 <hi>ſix,</hi> 7 <hi>ſeven,</hi> 8 <hi>eight</hi> 9 <hi>nine,</hi> and 0, which is called a <hi>Cypher,</hi> and by ſome <hi>Nought,</hi> be<g ref="char:EOLhyphen"/>cauſe of it ſelf it ſtands for <hi>nothing,</hi> yet encreaſes the Value of other Figures that ſtand behind it, in the ſame manner. Every Figure aug<g ref="char:EOLhyphen"/>ments its proper Value, according to the place it happens to be in, except the firſt.</p>
                <p>Any of the <hi>Nine Figures</hi> in the firſt place, ſignifies only its own ſingle <hi>value</hi>; in the ſecond place, ſo many times <hi>Ten</hi>; in the third place, ſo many <hi>Hundreds</hi>; in the
-<pb n="124" facs="tcp:039314_0133_1013FD54A9C68CB0"/>
+<pb n="124" facs="unknown:039314_0133_1013FD54A9C68CB0"/>
 fourth place ſo many <hi>Thouſands</hi>; in the fifth place, ſo many <hi>ten Thou<g ref="char:EOLhyphen"/>ſands</hi>; in th ſixth place, ſo many <hi>hundred Thouſands</hi>; and in the 7th place, ſo many <hi>Millions.</hi>
                </p>
                <p>As for <hi>Example,</hi> In this Num<g ref="char:EOLhyphen"/>ber 1234567, the 7 is barely ſeven <hi>
@@ -4069,7 +4070,7 @@ fourth place ſo many <hi>Thouſands</hi>; in the fifth place, ſo many <hi>ten 
                </p>
                <p>All which being put together in your Underſtanding, you muſt read the aforeſaid ſum (1234567) thus, <hi>One Million, two hundred thirty four Thouſand, five hundred ſixty ſeven.</hi> But this Number, 7654321 (which
 <pb n="125"
-                      facs="tcp:039314_0134_1013FD9240D19458"
+                      facs="unknown:039314_0134_1013FD9240D19458"
                       rendition="simple:additions"/>
 conſiſts of the ſame Figures, but contrary wiſe placed) muſt be read <hi>Seven Millions, ſix hundred fifty four Thouſand, three hundred twenty one</hi>; ſo 9010400, is <hi>Nine Millions, ten Thouſand, four Hundred.</hi>
                </p>
@@ -4097,7 +4098,7 @@ conſiſts of the ſame Figures, but contrary wiſe placed) muſt be read <hi>Se
                   </list>
                </p>
                <p>
-                  <pb n="126" facs="tcp:039314_0135_1013FD562DC214B0"/>Now to know how much the Total of this is, you muſt add them up together, beginning at the bottom, ſay, 2 &amp; 3 makes 5, &amp; 4 is 9, &amp; 5 is 14, which ſet down underneath; &amp; by that it appears you have disburſed 14 Pounds.</p>
+                  <pb n="126" facs="unknown:039314_0135_1013FD562DC214B0"/>Now to know how much the Total of this is, you muſt add them up together, beginning at the bottom, ſay, 2 &amp; 3 makes 5, &amp; 4 is 9, &amp; 5 is 14, which ſet down underneath; &amp; by that it appears you have disburſed 14 Pounds.</p>
             </div>
             <div type="subtraction">
                <head>Of Subſtraction.</head>
@@ -4106,7 +4107,7 @@ conſiſts of the ſame Figures, but contrary wiſe placed) muſt be read <hi>Se
             </div>
             <div type="multiplication">
                <pb n="127"
-                   facs="tcp:039314_0136_1013FD93C3DF45A0"
+                   facs="unknown:039314_0136_1013FD93C3DF45A0"
                    rendition="simple:additions"/>
                <head>A Table of MULTIPICATION.</head>
                <p>
@@ -4257,7 +4258,7 @@ conſiſts of the ſame Figures, but contrary wiſe placed) muſt be read <hi>Se
                </p>
             </div>
             <div type="receipt">
-               <pb n="128" facs="tcp:039314_0137_1013FD57B45AF828"/>
+               <pb n="128" facs="unknown:039314_0137_1013FD57B45AF828"/>
                <head>A Receipt in full.</head>
                <p>REceiv'd the <hi>26</hi> of <hi>March 1695.</hi> of <hi>A. B.</hi> the Sum of Forty two Pounds ten Shillings, (in Money and Goods) which is in full of all Debts, Dues, &amp;c. whatſoever, from the ſaid <hi>A. B.</hi> I ſay, Received in full,</p>
                <closer>
@@ -4271,7 +4272,7 @@ conſiſts of the ſame Figures, but contrary wiſe placed) muſt be read <hi>Se
                   </gap>ound unto <hi>John True</hi> of the County and Province aforſaid, in the Sum of One hundred Pounds, currant Silver Money of the ſaid Province, to be paid to the ſaid <hi>John True,</hi> his certain Attorney, Executors, Adminiſtrators or Aſſigns; To the which Payment well and truly to be made, I bind my my ſelf, my Heirs, Executors &amp; Ad<g ref="char:EOLhyphen"/>miniſtrators firmly by theſe Preſents. <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ealed with my Seal, dated the <hi>24</hi>th
-<pb n="129" facs="tcp:039314_0138_1013FD962755DEB8"/>
+<pb n="129" facs="unknown:039314_0138_1013FD962755DEB8"/>
 day of <hi>March, 1695. Anno<expan>
                         <am>
                            <g ref="char:abque"/>
@@ -4292,7 +4293,7 @@ day of <hi>March, 1695. Anno<expan>
                </closer>
             </div>
             <div type="punctuation">
-               <pb n="130" facs="tcp:039314_0139_1013FD59451744B8"/>
+               <pb n="130" facs="unknown:039314_0139_1013FD59451744B8"/>
                <head>Common <hi>Stops,</hi> to be obſerved in Writing and Reading.</head>
                <p>TRue Pointing is neceſſary in Writing, to prevent Confu<g ref="char:EOLhyphen"/>ſion, and therefore I have ſet down the moſt uſual Stops or Points, as followeth:</p>
                <p>A <hi>Comma</hi> [,] is a Note of ſho<gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -4306,7 +4307,7 @@ day of <hi>March, 1695. Anno<expan>
                      </gap>ept; I awaked, for the Lord ſuſtained me.</hi>
                </p>
                <p>A <hi>Period</hi> [.] is a full ſtop, and is placed at the cloſe of a ſentence. As, <hi>Rejoyce evermore. Pray without
-<pb n="831" facs="tcp:039314_0140_1013FD988CEA2700"/>
+<pb n="831" facs="unknown:039314_0140_1013FD988CEA2700"/>
 ceaſing.</hi> Here the ſtop or pauſe muſt be longer, that the Reader may recover his breath, and the Hearer have time to reflect a little on what is delivered, before they proceed to new matter.</p>
                <p>An <hi>Interrogation</hi> Point, [?] is placed after the asking a Queſtion. As, <hi>Why do the Heathen rage? And the people imagine a vain thing?</hi> In reading, make near as long a pauſe here, as at a Period.</p>
                <p>A <hi>Parentheſis</hi> () is put to incloſe any new clauſe or matter that is added before a man hath fully ex<g ref="char:EOLhyphen"/>preſſed his Mind, the ſence being good, if that which is added were left out. As where <hi>Paul</hi> ſays, <hi>For I know in me, (that is, in my fleſh) dwelleth no good.</hi>
@@ -4314,7 +4315,7 @@ ceaſing.</hi> Here the ſtop or pauſe muſt be longer, that the Reader may rec
                <p>An <hi>Admiration</hi> [!] is put after words that expreſs ſomething ſtrange, or to be wondered at, as, <hi>O the depth of the Riches, both of the Wiſdom and Knowledge of God!</hi>
                </p>
                <p>
-                  <pb n="132" facs="tcp:039314_0141_1013FD5C792800F8"/>The <hi>Apoſtrophe</hi> ['] is a point made<g ref="char:punc">▪</g> as you ſee) like a <hi>Comma,</hi> &amp; is ſet over the place where a <hi>Vowel</hi> is left out, which you often meet with in Verſe, to ſhorten the feet, or to make it run ſmooth. As <hi>penn'd, heav'ns, ſin'd, th'other, 'twas, 'tis,</hi> &amp;c.</p>
+                  <pb n="132" facs="unknown:039314_0141_1013FD5C792800F8"/>The <hi>Apoſtrophe</hi> ['] is a point made<g ref="char:punc">▪</g> as you ſee) like a <hi>Comma,</hi> &amp; is ſet over the place where a <hi>Vowel</hi> is left out, which you often meet with in Verſe, to ſhorten the feet, or to make it run ſmooth. As <hi>penn'd, heav'ns, ſin'd, th'other, 'twas, 'tis,</hi> &amp;c.</p>
                <p>A <hi>Hyphen</hi> [-] is a note of Con<g ref="char:EOLhyphen"/>nexion, as, <hi>Law-giver, Pen-men.</hi>
                </p>
                <p>An <hi>Index,</hi> thus ☞ is to note ſomething remarkable.</p>
@@ -4328,7 +4329,7 @@ ceaſing.</hi> Here the ſtop or pauſe muſt be longer, that the Reader may rec
                      </gap>moli gratia</hi>) for example; &amp; over our Accounts <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> commonly write <hi>l. s. d. q.</hi>
-                  <pb n="133" facs="tcp:039314_0142_1013FD9BC468BD08"/>
+                  <pb n="133" facs="unknown:039314_0142_1013FD9BC468BD08"/>
 which is <hi>(libri, ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>liai, denarii, qua<g ref="char:EOLhyphen"/>drantes)</hi> Pounds, Shillings, Pence, Farthings. So alſo we write, <hi>viz. (videlicet)</hi> to wit, or that is to ſay; <hi>ſc. (ſcilicit)</hi> that is to ſay; <hi>i. e. (id est)</hi> that is; <hi>v. (vide)</hi> ſee; <hi>N. B. (not<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -4353,7 +4354,7 @@ which is <hi>(libri, ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
             </div>
          </div>
          <div type="dictionary">
-            <pb n="134" facs="tcp:039314_0143_1013FD5E02F98150"/>
+            <pb n="134" facs="unknown:039314_0143_1013FD5E02F98150"/>
             <head>A ſhort <hi>Dictionary,</hi> interpret<g ref="char:EOLhyphen"/>ing ſeveral hard Words and Names.</head>
             <list>
                <item>
@@ -4397,7 +4398,7 @@ which is <hi>(libri, ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <hi>Abraham,</hi> Father of many<g ref="char:punc">▪</g>
                </item>
                <item>
-                  <pb n="135" facs="tcp:039314_0144_1013FD9D4B160728"/>
+                  <pb n="135" facs="unknown:039314_0144_1013FD9D4B160728"/>
                   <hi>Alexander,</hi> Helper of Man.</item>
                <item>
                   <hi>An<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -4455,7 +4456,7 @@ which is <hi>(libri, ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
                <item>
                   <hi>Callendar,</hi> Almanack.</item>
                <item>
-                  <pb n="136" facs="tcp:039314_0145_1013FD607846B530"/>
+                  <pb n="136" facs="unknown:039314_0145_1013FD607846B530"/>
                   <hi>Caſual,</hi> Accedental.</item>
                <item>
                   <hi>Christ,</hi> Anointed.</item>
@@ -4514,7 +4515,7 @@ which is <hi>(libri, ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>und,</hi> Bleſſed Peace.</item>
                <item>
-                  <pb n="137" facs="tcp:039314_0146_1013FDA1C13A8788"/>
+                  <pb n="137" facs="unknown:039314_0146_1013FDA1C13A8788"/>
                   <hi>Edward,</hi> happy Keeper.</item>
                <item>
                   <hi>Eliſha,</hi> the Lamb of God.</item>
@@ -4572,7 +4573,7 @@ which is <hi>(libri, ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
                <item>
                   <hi>Generous,</hi> of a noble Mind.</item>
                <item>
-                  <pb n="138" facs="tcp:039314_0147_1013FD62D95780C8"/>
+                  <pb n="138" facs="unknown:039314_0147_1013FD62D95780C8"/>
                   <hi>Gabriel,</hi> the Strength of God.</item>
                <item>
                   <hi>Gamaliel,</hi> God's Reward.</item>
@@ -4627,7 +4628,7 @@ which is <hi>(libri, ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>••</desc>
                   </gap>ve.</item>
                <item>
-                  <pb n="139" facs="tcp:039314_0148_1013FDA4EF5318D8"/>
+                  <pb n="139" facs="unknown:039314_0148_1013FDA4EF5318D8"/>
                   <hi>James,</hi> a Maintainer.</item>
                <item>
                   <hi>Job,</hi> 
@@ -4701,7 +4702,7 @@ which is <hi>(libri, ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•••</desc>
                      </gap>,</hi> Greatneſs.</item>
                <item>
-                  <pb n="140" facs="tcp:039314_0149_1013FDB5AA227408"/>
+                  <pb n="140" facs="unknown:039314_0149_1013FDB5AA227408"/>
                   <hi>Major,</hi> the Greater.</item>
                <item>
                   <hi>Minor,</hi> the Leſſer</item>
@@ -4759,7 +4760,7 @@ which is <hi>(libri, ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
                <item>
                   <hi>Original,</hi> Beginning firſt.</item>
                <item>
-                  <pb n="141" facs="tcp:039314_0150_1013FDA829760380"/>
+                  <pb n="141" facs="unknown:039314_0150_1013FDA829760380"/>
                   <hi>Oracle,</hi> a Speech from God<g ref="char:punc">▪</g>
                </item>
                <item>
@@ -4833,7 +4834,7 @@ which is <hi>(libri, ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
                <item>
                   <hi>Repugnent,</hi> contrary.</item>
                <item>
-                  <pb n="142" facs="tcp:039314_0151_1013FD23EA970BB0"/>
+                  <pb n="142" facs="unknown:039314_0151_1013FD23EA970BB0"/>
                   <hi>Rabbi,</hi> Maſter,</item>
                <item>
                   <hi>Regreſſion,</hi> Returning, going back.</item>
@@ -4883,7 +4884,7 @@ which is <hi>(libri, ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
                <item>
                   <hi>Solomon,</hi> Peaceable.</item>
                <item>
-                  <pb n="143" facs="tcp:039314_0152_1013FDAA88BD7CE0"/>
+                  <pb n="143" facs="unknown:039314_0152_1013FDAA88BD7CE0"/>
                   <hi>Sarah,</hi> Lady or Dame</item>
                <item>
                   <hi>Suſanna,</hi> Lilly or Roſe.</item>
@@ -4940,7 +4941,7 @@ which is <hi>(libri, ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
             </list>
          </div>
          <div type="dialogue">
-            <pb n="144" facs="tcp:039314_0153_1013FDBA6405F450"/>
+            <pb n="144" facs="unknown:039314_0153_1013FDBA6405F450"/>
             <head>A ſhort <hi>Dialogue,</hi> ſhewing the W<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ful ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -5030,7 +5031,7 @@ which is <hi>(libri, ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>nd I will fill thy Heart with joy,</l>
                <l>
-                  <pb n="145" facs="tcp:039314_0154_1013FDADCE66C868"/>If thou my Councel wilt Embrace.</l>
+                  <pb n="145" facs="unknown:039314_0154_1013FDADCE66C868"/>If thou my Councel wilt Embrace.</l>
                <l>And ſhun the ways of Truth and Grace:</l>
                <l>And learn to lye<g ref="char:punc">▪</g> to curſe and ſwear,</l>
                <l>And be as Proud as any are;</l>
@@ -5066,7 +5067,7 @@ which is <hi>(libri, ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>〈…〉</desc>
                   </gap> fear not</l>
                <l>
-                  <pb n="146" facs="tcp:039314_0155_1013FDBC2B8E3CF0"/>And what Earth yields or can afford,</l>
+                  <pb n="146" facs="unknown:039314_0155_1013FDBC2B8E3CF0"/>And what Earth yields or can afford,</l>
                <l>I'll give to thee upon my Word</l>
                <l>Come <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -5138,7 +5139,7 @@ which is <hi>(libri, ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   </gap>
                </l>
                <l>
-                  <pb n="147" facs="tcp:039314_0156_1013FDB10BE68A10"/>His Sweet will into Sower turn,</l>
+                  <pb n="147" facs="unknown:039314_0156_1013FDB10BE68A10"/>His Sweet will into Sower turn,</l>
                <l>If in his ways thou ſtill wilt run;</l>
                <l>Lift up thine Eyes and ſtedfaſt look,</l>
                <l>Under his Bait is a ſharp Hook<g ref="char:punc">▪</g>
@@ -5217,7 +5218,7 @@ which is <hi>(libri, ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
                <l>It can't be had in things below.</l>
             </sp>
             <sp>
-               <pb n="148" facs="tcp:039314_0157_1013FDBDB0F8E550"/>
+               <pb n="148" facs="unknown:039314_0157_1013FDBDB0F8E550"/>
                <speaker>Chriſt.</speaker>
                <l>Are not my ways, <hi>O Youth! for thee,</hi>
                </l>
@@ -5287,7 +5288,7 @@ which is <hi>(libri, ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
                </l>
             </sp>
             <sp>
-               <pb n="149" facs="tcp:039314_0158_1013FDB29184A650"/>
+               <pb n="149" facs="unknown:039314_0158_1013FDB29184A650"/>
                <speaker>Youth,</speaker>
                <l>Amazed great i now begin;</l>
                <l>Ah! Muſt i leave theſe ways of Sin,</l>
@@ -5367,7 +5368,7 @@ which is <hi>(libri, ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
                </l>
                <l>At that dread VVord [ETERNITY]</l>
                <l>
-                  <pb n="150" facs="tcp:039314_0159_1013FDBF60857C38"/>And if my Soul immortal be,</l>
+                  <pb n="150" facs="unknown:039314_0159_1013FDBF60857C38"/>And if my Soul immortal be,</l>
                <l>At Death, what will become of me<g ref="char:punc">▪</g>
                </l>
             </sp>
@@ -5435,7 +5436,7 @@ which is <hi>(libri, ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
                </l>
             </sp>
             <sp>
-               <pb n="151" facs="tcp:039314_0160_1013FDB4171C0400"/>
+               <pb n="151" facs="unknown:039314_0160_1013FDB4171C0400"/>
                <speaker>Chriſt.</speaker>
                <l>Take heed or elſe thou art undone,</l>
                <l>Theſe thoughts are from the Evil One,</l>
@@ -5506,7 +5507,7 @@ which is <hi>(libri, ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
                </l>
             </sp>
             <sp>
-               <pb n="152" facs="tcp:039314_0161_1013FDC296FE90F0"/>
+               <pb n="152" facs="unknown:039314_0161_1013FDC296FE90F0"/>
                <speaker>Chriſt.</speaker>
                <l>Nay, hold <hi>vain Youth,</hi> thy <hi>time</hi> is <hi>ſhort,</hi>
                </l>
